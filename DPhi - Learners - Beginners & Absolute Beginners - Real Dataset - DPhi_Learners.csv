@@ -1,0 +1,1448 @@
+Learner_ID,Quiz1,Quiz2,Quiz3,Quiz4,Quiz5,Quiz6,Quiz7,Total_Score,Group_ID,Learner_Category
+AB1,10,10,8,9,10,10,10,67,AB_G1,Absolute Beginner
+AB2,10,10,10,9,10,9.09,-,58.09,AB_G1,Absolute Beginner
+AB3,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB4,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB5,10,10,9,9,10,8.18,10,66.18,AB_G1,Absolute Beginner
+AB6,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB7,10,10,10,10,9,-,-,49,AB_G1,Absolute Beginner
+AB8,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB9,10,-,-,-,-,-,-,10,AB_G1,Absolute Beginner
+AB10,9,9.5,8,9,-,-,-,35.5,AB_G1,Absolute Beginner
+AB11,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB12,8,5,6,4,9,-,-,32,AB_G1,Absolute Beginner
+AB13,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB14,8,7,9,8,10,5,-,47,AB_G1,Absolute Beginner
+AB15,9,8,-,-,-,-,-,17,AB_G1,Absolute Beginner
+AB16,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB17,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB18,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB19,9,7,7,9,-,-,-,32,AB_G1,Absolute Beginner
+AB20,10,9.5,10,10,10,10,-,59.5,AB_G1,Absolute Beginner
+AB21,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB22,10,10,10,10,10,8.64,-,58.64,AB_G1,Absolute Beginner
+AB23,10,7.5,10,9,9,8.64,-,54.14,AB_G1,Absolute Beginner
+AB24,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB25,10,9,9,8,10,-,-,46,AB_G1,Absolute Beginner
+AB26,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB27,10,10,10,10,10,8.64,-,58.64,AB_G1,Absolute Beginner
+AB28,8,6,9,9,9,8.64,-,49.64,AB_G1,Absolute Beginner
+AB29,10,9.5,9,10,10,8.64,10,67.14,AB_G1,Absolute Beginner
+AB30,-,-,-,-,-,-,-,-,AB_G1,Absolute Beginner
+AB31,9,7.5,6,9,8,8.64,-,48.14,AB_G1,Absolute Beginner
+AB32,3,-,-,-,-,-,-,3,AB_G1,Absolute Beginner
+AB33,10,8,8,10,6,5,-,47,AB_G10,Absolute Beginner
+AB34,10,9,9,10,9,8.64,-,55.64,AB_G10,Absolute Beginner
+AB35,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB36,9,9,10,10,10,6.82,-,54.82,AB_G10,Absolute Beginner
+AB37,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB38,10,10,9,10,10,9.55,-,58.55,AB_G10,Absolute Beginner
+AB39,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB40,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB41,9,8,9,9,9,5.91,-,49.91,AB_G10,Absolute Beginner
+AB42,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB43,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB44,10,10,9,10,10,-,-,49,AB_G10,Absolute Beginner
+AB45,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB46,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB47,10,6.5,6,7,6,-,-,35.5,AB_G10,Absolute Beginner
+AB48,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB49,9,9.5,9,10,9,-,-,46.5,AB_G10,Absolute Beginner
+AB50,7,7,7,8,-,-,-,29,AB_G10,Absolute Beginner
+AB51,10,9,-,-,-,-,-,19,AB_G10,Absolute Beginner
+AB52,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB53,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB54,6,6.5,5,7,9,-,-,33.5,AB_G10,Absolute Beginner
+AB55,10,10,10,10,9,5.91,-,54.91,AB_G10,Absolute Beginner
+AB56,10,7.5,10,9,-,-,-,36.5,AB_G10,Absolute Beginner
+AB57,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB58,9,-,-,-,-,-,-,9,AB_G10,Absolute Beginner
+AB59,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB60,8,-,-,-,-,-,-,8,AB_G10,Absolute Beginner
+AB61,9,10,10,10,10,9.55,-,58.55,AB_G10,Absolute Beginner
+AB62,-,-,-,-,-,-,-,-,AB_G10,Absolute Beginner
+AB63,10,10,9,10,10,8.64,-,57.64,AB_G10,Absolute Beginner
+AB64,9,6.5,7,10,-,-,-,32.5,AB_G11,Absolute Beginner
+AB65,10,7,-,-,-,-,-,17,AB_G11,Absolute Beginner
+AB66,10,10,10,10,10,-,-,50,AB_G11,Absolute Beginner
+AB67,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB68,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB69,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB70,10,7,7,7,9,7.73,-,47.73,AB_G11,Absolute Beginner
+AB71,10,-,-,-,-,-,-,10,AB_G11,Absolute Beginner
+AB72,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB73,9,-,7,7,9,7.73,-,39.73,AB_G11,Absolute Beginner
+AB74,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB75,7,5.5,9,7,8,-,-,36.5,AB_G11,Absolute Beginner
+AB76,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB77,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB78,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB79,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB80,9,10,8,9,8,5,-,49,AB_G11,Absolute Beginner
+AB81,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB82,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB83,7,9.5,9,10,8,-,-,43.5,AB_G11,Absolute Beginner
+AB84,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB85,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB86,10,6,9,8,9,8.18,7,57.18,AB_G11,Absolute Beginner
+AB87,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB88,9,9.5,9,10,9,5.91,-,52.41,AB_G11,Absolute Beginner
+AB89,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB90,10,10,8,10,9,9.09,-,56.09,AB_G11,Absolute Beginner
+AB91,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB92,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB93,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB94,-,-,-,-,-,-,-,-,AB_G11,Absolute Beginner
+AB95,4,8,-,-,-,-,-,12,AB_G11,Absolute Beginner
+AB96,10,9,9,6,8,7.73,7,56.73,AB_G12,Absolute Beginner
+AB97,9,8.5,4,-,-,-,-,21.5,AB_G12,Absolute Beginner
+AB98,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB99,7,8.5,6,7,10,7.73,-,46.23,AB_G12,Absolute Beginner
+AB100,10,9,9,9,9,6.82,-,52.82,AB_G12,Absolute Beginner
+AB101,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB102,8,6.5,9,9,9,5,-,46.5,AB_G12,Absolute Beginner
+AB103,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB104,10,7.5,10,10,10,7.27,-,54.77,AB_G12,Absolute Beginner
+AB105,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB106,8,8,8,9,10,10,-,53,AB_G12,Absolute Beginner
+AB107,10,10,8,10,9,9.09,-,56.09,AB_G12,Absolute Beginner
+AB108,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB109,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB110,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB111,10,9,10,9,10,7.73,10,65.73,AB_G12,Absolute Beginner
+AB112,10,9.5,10,9,9,9.09,-,56.59,AB_G12,Absolute Beginner
+AB113,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB114,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB115,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB116,10,9,9,10,9,-,-,47,AB_G12,Absolute Beginner
+AB117,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB118,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB119,10,10,9,10,10,10,10,69,AB_G12,Absolute Beginner
+AB120,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB121,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB122,7,9,9,9,8,8.64,-,50.64,AB_G12,Absolute Beginner
+AB123,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB124,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB125,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB126,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB127,-,-,-,-,-,-,-,-,AB_G12,Absolute Beginner
+AB128,4,5.5,5,7,7,8.64,7,44.14,AB_G13,Absolute Beginner
+AB129,10,10,10,10,9,-,-,49,AB_G13,Absolute Beginner
+AB130,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB131,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB132,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB133,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB134,8,8.5,-,-,-,-,-,16.5,AB_G13,Absolute Beginner
+AB135,10,9.5,10,10,10,8.64,-,58.14,AB_G13,Absolute Beginner
+AB136,10,9,10,10,10,9.55,-,58.55,AB_G13,Absolute Beginner
+AB137,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB138,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB139,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB140,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB141,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB142,10,6.5,9,10,-,-,-,35.5,AB_G13,Absolute Beginner
+AB143,7,9.5,-,-,-,-,-,16.5,AB_G13,Absolute Beginner
+AB144,8,-,-,-,-,-,-,8,AB_G13,Absolute Beginner
+AB145,9,9,10,10,9,8.18,-,55.18,AB_G13,Absolute Beginner
+AB146,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB147,10,10,9,9,9,7.73,8.5,63.23,AB_G13,Absolute Beginner
+AB148,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB149,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB150,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB151,5,-,-,-,-,-,-,5,AB_G13,Absolute Beginner
+AB152,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB153,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB154,8,6.5,9,8,10,6.82,-,48.32,AB_G13,Absolute Beginner
+AB155,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB156,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB157,8,10,7,-,-,-,-,25,AB_G13,Absolute Beginner
+AB158,-,-,-,-,-,-,-,-,AB_G13,Absolute Beginner
+AB159,7,5.5,6,3,6,5.91,7.5,40.91,AB_G13,Absolute Beginner
+AB160,10,8.5,9,10,6,-,-,43.5,AB_G14,Absolute Beginner
+AB161,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB162,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB163,10,10,10,10,9,10,-,59,AB_G14,Absolute Beginner
+AB164,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB165,10,9,10,10,10,9.55,-,58.55,AB_G14,Absolute Beginner
+AB166,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB167,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB168,8,10,8,8,8,8.18,-,50.18,AB_G14,Absolute Beginner
+AB169,9,10,9,10,10,-,-,48,AB_G14,Absolute Beginner
+AB170,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB171,5,9.5,9,10,10,8.18,-,51.68,AB_G14,Absolute Beginner
+AB172,10,6.5,10,8,7,6.82,9,57.32,AB_G14,Absolute Beginner
+AB173,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB174,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB175,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB176,10,9,9,6,9,7.27,-,50.27,AB_G14,Absolute Beginner
+AB177,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB178,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB179,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB180,9,6.5,10,10,-,-,-,35.5,AB_G14,Absolute Beginner
+AB181,10,8,8,10,10,-,-,46,AB_G14,Absolute Beginner
+AB182,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB183,10,10,10,9,10,10,-,59,AB_G14,Absolute Beginner
+AB184,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB185,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB186,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB187,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB188,10,9,9,10,9,-,-,47,AB_G14,Absolute Beginner
+AB189,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB190,10,10,10,7,10,10,-,57,AB_G14,Absolute Beginner
+AB191,-,-,-,-,-,-,-,-,AB_G14,Absolute Beginner
+AB192,10,5.5,9,-,-,-,-,24.5,AB_G15,Absolute Beginner
+AB193,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB194,8,-,-,-,-,-,-,8,AB_G15,Absolute Beginner
+AB195,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB196,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB197,9,10,10,10,8,8.64,-,55.64,AB_G15,Absolute Beginner
+AB198,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB199,7,6,-,-,-,-,-,13,AB_G15,Absolute Beginner
+AB200,9,10,10,10,10,8.64,-,57.64,AB_G15,Absolute Beginner
+AB201,8,-,-,-,-,-,-,8,AB_G15,Absolute Beginner
+AB202,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB203,6,-,-,-,-,-,-,6,AB_G15,Absolute Beginner
+AB204,10,8,10,9,9,-,-,46,AB_G15,Absolute Beginner
+AB205,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB206,7,10,9,9,8,-,-,43,AB_G15,Absolute Beginner
+AB207,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB208,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB209,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB210,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB211,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB212,10,10,10,7,-,5,-,42,AB_G15,Absolute Beginner
+AB213,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB214,10,9,9,9,7,7.27,9,60.27,AB_G15,Absolute Beginner
+AB215,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB216,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB217,7,-,-,-,-,-,-,7,AB_G15,Absolute Beginner
+AB218,-,-,-,-,-,-,-,-,AB_G15,Absolute Beginner
+AB219,8,10,8,10,8,9.55,-,53.55,AB_G15,Absolute Beginner
+AB220,8,8,-,-,-,-,-,16,AB_G15,Absolute Beginner
+AB221,8,7.5,10,8,10,-,-,43.5,AB_G15,Absolute Beginner
+AB222,10,10,10,10,9,10,-,59,AB_G15,Absolute Beginner
+AB223,10,8.5,10,10,10,10,-,58.5,AB_G15,Absolute Beginner
+AB224,10,9,8,-,-,-,-,27,AB_G16,Absolute Beginner
+AB225,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB226,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB227,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB228,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB229,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB230,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB231,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB232,9,9,10,9,10,9.55,8,64.55,AB_G16,Absolute Beginner
+AB233,9,7.5,10,8,-,-,-,34.5,AB_G16,Absolute Beginner
+AB234,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB235,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB236,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB237,9,-,-,-,-,-,-,9,AB_G16,Absolute Beginner
+AB238,7,10,9,8,10,5.91,-,49.91,AB_G16,Absolute Beginner
+AB239,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB240,10,7.5,-,-,-,-,-,17.5,AB_G16,Absolute Beginner
+AB241,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB242,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB243,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB244,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB245,9,10,6,9,10,8.18,-,52.18,AB_G16,Absolute Beginner
+AB246,9,10,10,10,9,-,-,48,AB_G16,Absolute Beginner
+AB247,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB248,10,10,10,-,-,-,-,30,AB_G16,Absolute Beginner
+AB249,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB250,-,7.5,8,8,9,7.73,-,40.23,AB_G16,Absolute Beginner
+AB251,9,8.5,7,9,8,6.82,6.5,54.82,AB_G16,Absolute Beginner
+AB252,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB253,9,8,9,9,8,5.91,-,48.91,AB_G16,Absolute Beginner
+AB254,-,-,-,-,-,-,-,-,AB_G16,Absolute Beginner
+AB255,8,6.5,9,9,9,9.55,10,61.05,AB_G17,Absolute Beginner
+AB256,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB257,10,10,9,9,10,10,10,68,AB_G17,Absolute Beginner
+AB258,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB259,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB260,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB261,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB262,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB263,10,9.5,10,9,9,-,-,47.5,AB_G17,Absolute Beginner
+AB264,9,8,8,10,7,5,-,47,AB_G17,Absolute Beginner
+AB265,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB266,8,10,8,8,8,8.64,7.5,58.14,AB_G17,Absolute Beginner
+AB267,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB268,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB269,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB270,10,10,10,10,10,8.18,6.5,64.68,AB_G17,Absolute Beginner
+AB271,10,10,10,10,-,-,-,40,AB_G17,Absolute Beginner
+AB272,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB273,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB274,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB275,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB276,8,10,7,10,10,7.73,6,58.73,AB_G17,Absolute Beginner
+AB277,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB278,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB279,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB280,9,9.5,9,-,-,-,-,27.5,AB_G17,Absolute Beginner
+AB281,10,10,10,10,9,9.55,-,58.55,AB_G17,Absolute Beginner
+AB282,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB283,8,8.5,8,8,8,8.18,-,48.68,AB_G17,Absolute Beginner
+AB284,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB285,-,-,-,-,-,-,-,-,AB_G17,Absolute Beginner
+AB286,10,8,10,8,-,-,-,36,AB_G17,Absolute Beginner
+AB287,10,10,10,9,9,7.73,-,55.73,AB_G18,Absolute Beginner
+AB288,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB289,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB290,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB291,10,8,-,-,-,-,-,18,AB_G18,Absolute Beginner
+AB292,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB293,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB294,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB295,9,7,-,-,-,-,-,16,AB_G18,Absolute Beginner
+AB296,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB297,9,9.5,10,9,9,-,-,46.5,AB_G18,Absolute Beginner
+AB298,6,5.5,-,-,-,-,-,11.5,AB_G18,Absolute Beginner
+AB299,9,7.5,8,10,8,8.64,7.5,58.64,AB_G18,Absolute Beginner
+AB300,10,9,9,10,10,10,-,58,AB_G18,Absolute Beginner
+AB301,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB302,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB303,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB304,4,-,-,-,-,-,-,4,AB_G18,Absolute Beginner
+AB305,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB306,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB307,4,-,-,-,-,-,-,4,AB_G18,Absolute Beginner
+AB308,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB309,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB310,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB311,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB312,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB313,10,9.5,10,9,10,10,-,58.5,AB_G18,Absolute Beginner
+AB314,8,9,10,10,10,10,9.5,66.5,AB_G18,Absolute Beginner
+AB315,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB316,-,-,-,-,-,-,-,-,AB_G18,Absolute Beginner
+AB317,10,9.5,8,8,-,-,-,35.5,AB_G18,Absolute Beginner
+AB318,10,10,8,9,7,8.64,-,52.64,AB_G18,Absolute Beginner
+AB319,10,10,10,10,10,-,-,50,AB_G19,Absolute Beginner
+AB320,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB321,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB322,10,10,10,10,10,6.82,-,56.82,AB_G19,Absolute Beginner
+AB323,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB324,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB325,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB326,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB327,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB328,10,10,9,9,10,8.64,-,56.64,AB_G19,Absolute Beginner
+AB329,7,2,-,-,-,-,-,9,AB_G19,Absolute Beginner
+AB330,10,-,10,8,8,-,-,36,AB_G19,Absolute Beginner
+AB331,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB332,3,5,6,5,9,5.45,-,33.45,AB_G19,Absolute Beginner
+AB333,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB334,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB335,8,4,6,5,6,8.64,7.5,45.14,AB_G19,Absolute Beginner
+AB336,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB337,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB338,7,9,7,-,-,-,-,23,AB_G19,Absolute Beginner
+AB339,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB340,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB341,10,6.5,10,9,9,8.64,7.5,60.64,AB_G19,Absolute Beginner
+AB342,10,9.5,10,10,9,10,-,58.5,AB_G19,Absolute Beginner
+AB343,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB344,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB345,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB346,9,9,9,8,-,-,-,35,AB_G19,Absolute Beginner
+AB347,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB348,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB349,10,9,10,10,10,8.64,-,57.64,AB_G19,Absolute Beginner
+AB350,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB351,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB352,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB353,-,9,10,-,-,-,-,19,AB_G19,Absolute Beginner
+AB354,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB355,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB356,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB357,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB358,9,8,10,9,6,8.64,7,57.64,AB_G19,Absolute Beginner
+AB359,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB360,10,10,10,9,7,6.82,-,52.82,AB_G19,Absolute Beginner
+AB361,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB362,10,-,-,-,-,-,-,10,AB_G19,Absolute Beginner
+AB363,10,8,7,10,-,-,-,35,AB_G19,Absolute Beginner
+AB364,10,9,10,10,10,9.09,-,58.09,AB_G19,Absolute Beginner
+AB365,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB366,9,7,5,10,-,-,-,31,AB_G19,Absolute Beginner
+AB367,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB368,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB369,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB370,9,10,9,10,10,10,-,58,AB_G19,Absolute Beginner
+AB371,8,6.5,7,6,10,-,-,37.5,AB_G19,Absolute Beginner
+AB372,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB373,10,10,10,10,10,9.09,-,59.09,AB_G19,Absolute Beginner
+AB374,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB375,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB376,10,10,9,8,10,9.09,-,56.09,AB_G19,Absolute Beginner
+AB377,9,10,10,9,9,10,-,57,AB_G19,Absolute Beginner
+AB378,-,-,-,-,-,-,-,-,AB_G19,Absolute Beginner
+AB379,10,10,9,9,9,5.91,-,52.91,AB_G19,Absolute Beginner
+AB380,10,8.5,10,10,10,6.36,-,54.86,AB_G2,Absolute Beginner
+AB381,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB382,5,-,-,-,-,-,-,5,AB_G2,Absolute Beginner
+AB383,9,10,6,10,9,6.82,-,50.82,AB_G2,Absolute Beginner
+AB384,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB385,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB386,8,8.5,6,8,6,4.09,-,40.59,AB_G2,Absolute Beginner
+AB387,9,-,-,-,-,-,-,9,AB_G2,Absolute Beginner
+AB388,10,9,10,9,9,8.64,10,65.64,AB_G2,Absolute Beginner
+AB389,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB390,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB391,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB392,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB393,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB394,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB395,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB396,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB397,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB398,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB399,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB400,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB401,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB402,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB403,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB404,10,9.5,10,9,10,-,-,48.5,AB_G2,Absolute Beginner
+AB405,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB406,10,8,10,9,9,8.64,10,64.64,AB_G2,Absolute Beginner
+AB407,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB408,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB409,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB410,-,-,-,-,-,-,-,-,AB_G2,Absolute Beginner
+AB411,9,10,9,9,10,7.73,8.5,63.23,AB_G3,Absolute Beginner
+AB412,9,7.5,9,10,8,8.64,-,52.14,AB_G3,Absolute Beginner
+AB413,10,10,10,10,-,-,-,40,AB_G3,Absolute Beginner
+AB414,10,8.5,8,7,8,7.73,-,49.23,AB_G3,Absolute Beginner
+AB415,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB416,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB417,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB418,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB419,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB420,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB421,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB422,9,9,9,9,10,7.73,10,63.73,AB_G3,Absolute Beginner
+AB423,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB424,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB425,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB426,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB427,10,-,-,-,-,-,-,10,AB_G3,Absolute Beginner
+AB428,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB429,10,5.5,-,-,-,-,-,15.5,AB_G3,Absolute Beginner
+AB430,-,9.5,-,-,-,-,-,9.5,AB_G3,Absolute Beginner
+AB431,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB432,8,10,9,10,9,9.55,-,55.55,AB_G3,Absolute Beginner
+AB433,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB434,7,-,-,-,-,-,-,7,AB_G3,Absolute Beginner
+AB435,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB436,10,10,9,9,10,9.09,8,65.09,AB_G3,Absolute Beginner
+AB437,9,8.5,10,10,9,7.27,-,53.77,AB_G3,Absolute Beginner
+AB438,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB439,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB440,-,-,-,-,-,-,-,-,AB_G3,Absolute Beginner
+AB441,10,10,9,10,10,9.55,8,66.55,AB_G3,Absolute Beginner
+AB442,7,7.5,-,-,-,-,-,14.5,AB_G3,Absolute Beginner
+AB443,9,9,7,6,7,1.36,-,39.36,AB_G4,Absolute Beginner
+AB444,10,10,9,10,9,9.09,-,57.09,AB_G4,Absolute Beginner
+AB445,10,9,9,10,10,8.64,-,56.64,AB_G4,Absolute Beginner
+AB446,-,-,-,-,-,-,-,-,AB_G4,Absolute Beginner
+AB447,8,9.5,10,9,9,9.55,-,55.05,AB_G4,Absolute Beginner
+AB448,10,10,10,8,10,8.18,-,56.18,AB_G4,Absolute Beginner
+AB449,-,-,-,-,-,-,-,-,AB_G4,Absolute Beginner
+AB450,-,-,-,-,-,-,-,-,AB_G4,Absolute Beginner
+AB451,10,9,10,10,9,8.64,-,56.64,AB_G4,Absolute Beginner
+AB452,10,10,8,10,-,-,-,38,AB_G4,Absolute Beginner
+AB453,10,8.5,10,9,10,7.73,-,55.23,AB_G4,Absolute Beginner
+AB454,10,7.5,10,9,9,-,-,45.5,AB_G4,Absolute Beginner
+AB455,-,-,-,-,-,-,-,-,AB_G4,Absolute Beginner
+AB456,-,-,-,-,-,-,-,-,AB_G4,Absolute Beginner
+AB457,-,-,-,-,-,-,-,-,AB_G4,Absolute Beginner
+AB458,-,-,-,-,-,-,-,-,AB_G4,Absolute Beginner
+AB459,9,7,10,9,9,9.09,9,62.09,AB_G4,Absolute Beginner
+AB460,-,-,-,-,-,-,-,-,AB_G4,Absolute Beginner
+AB461,7,8.5,9,9,9,-,-,42.5,AB_G4,Absolute Beginner
+AB462,-,-,-,-,-,-,-,-,AB_G4,Absolute Beginner
+AB463,6,7.5,5,7,9,4.09,-,38.59,AB_G4,Absolute Beginner
+AB464,10,9,10,10,10,9.09,-,58.09,AB_G4,Absolute Beginner
+AB465,3,6,5,9,9,7.27,-,39.27,AB_G4,Absolute Beginner
+AB466,9,9.5,10,10,-,-,-,38.5,AB_G4,Absolute Beginner
+AB467,10,9,8,8,10,8.64,-,53.64,AB_G4,Absolute Beginner
+AB468,10,10,10,9,10,10,-,59,AB_G4,Absolute Beginner
+AB469,10,10,10,9,-,-,-,39,AB_G4,Absolute Beginner
+AB470,9,8,8,10,-,-,-,35,AB_G4,Absolute Beginner
+AB471,10,10,7,-,-,-,-,27,AB_G4,Absolute Beginner
+AB472,-,-,-,-,-,-,-,-,AB_G4,Absolute Beginner
+AB473,10,10,10,10,9,10,-,59,AB_G4,Absolute Beginner
+AB474,10,10,10,7,9,5.91,-,51.91,AB_G5,Absolute Beginner
+AB475,8,7.5,9,9,10,-,-,43.5,AB_G5,Absolute Beginner
+AB476,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB477,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB478,10,8,-,-,-,-,-,18,AB_G5,Absolute Beginner
+AB479,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB480,9,-,-,-,-,-,-,9,AB_G5,Absolute Beginner
+AB481,10,9,9,8,9,9.55,9,63.55,AB_G5,Absolute Beginner
+AB482,9,7.5,9,9,7,-,-,41.5,AB_G5,Absolute Beginner
+AB483,9,10,10,9,10,8.64,-,56.64,AB_G5,Absolute Beginner
+AB484,10,9,9,10,10,9.09,10,67.09,AB_G5,Absolute Beginner
+AB485,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB486,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB487,10,7.5,8,7,8,9.55,-,50.05,AB_G5,Absolute Beginner
+AB488,8,10,9,-,-,-,-,27,AB_G5,Absolute Beginner
+AB489,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB490,10,9,9,10,8,8.18,-,54.18,AB_G5,Absolute Beginner
+AB491,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB492,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB493,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB494,10,9,10,10,10,9.09,-,58.09,AB_G5,Absolute Beginner
+AB495,10,9,9,8,9,9.55,-,54.55,AB_G5,Absolute Beginner
+AB496,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB497,10,8,10,10,10,7.73,-,55.73,AB_G5,Absolute Beginner
+AB498,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB499,10,9,8,9,10,9.09,-,55.09,AB_G5,Absolute Beginner
+AB500,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB501,8,7,8,9,7,7.73,-,46.73,AB_G5,Absolute Beginner
+AB502,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB503,-,-,-,-,-,-,-,-,AB_G5,Absolute Beginner
+AB504,10,9.5,9,8,9,9.09,-,54.59,AB_G5,Absolute Beginner
+AB505,10,10,9,9,10,7.73,-,55.73,AB_G5,Absolute Beginner
+AB506,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB507,7,9.5,8,9,7,-,-,40.5,AB_G6,Absolute Beginner
+AB508,10,10,8,10,10,10,-,58,AB_G6,Absolute Beginner
+AB509,10,5,-,-,-,-,-,15,AB_G6,Absolute Beginner
+AB510,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB511,10,10,10,10,10,8.64,-,58.64,AB_G6,Absolute Beginner
+AB512,9,10,10,10,10,10,-,59,AB_G6,Absolute Beginner
+AB513,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB514,10,8,5,7,9,9.09,-,48.09,AB_G6,Absolute Beginner
+AB515,9,9.5,7,9,7,7.73,-,49.23,AB_G6,Absolute Beginner
+AB516,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB517,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB518,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB519,8,7,5,-,-,-,-,20,AB_G6,Absolute Beginner
+AB520,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB521,10,10,10,10,10,9.09,-,59.09,AB_G6,Absolute Beginner
+AB522,10,7,9,9,10,9.55,-,54.55,AB_G6,Absolute Beginner
+AB523,7,8.5,-,-,-,-,-,15.5,AB_G6,Absolute Beginner
+AB524,7,8.5,9,9,5,-,-,38.5,AB_G6,Absolute Beginner
+AB525,10,9,8,10,10,9.55,-,56.55,AB_G6,Absolute Beginner
+AB526,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB527,10,10,10,10,10,9.55,-,59.55,AB_G6,Absolute Beginner
+AB528,9,-,-,-,-,-,-,9,AB_G6,Absolute Beginner
+AB529,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB530,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB531,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB532,9,9,9,8,8,-,-,43,AB_G6,Absolute Beginner
+AB533,6,-,-,-,-,-,-,6,AB_G6,Absolute Beginner
+AB534,10,7.5,10,10,9,7.73,-,54.23,AB_G6,Absolute Beginner
+AB535,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB536,-,-,-,-,-,-,-,-,AB_G6,Absolute Beginner
+AB537,10,10,9,10,9,8.18,-,56.18,AB_G6,Absolute Beginner
+AB538,10,4.5,-,-,-,-,-,14.5,AB_G7,Absolute Beginner
+AB539,10,10,10,9,9,8.64,-,56.64,AB_G7,Absolute Beginner
+AB540,8,4,-,-,-,-,-,12,AB_G7,Absolute Beginner
+AB541,9,7.5,9,8,10,6.82,-,50.32,AB_G7,Absolute Beginner
+AB542,10,10,7,6,8,7.73,8,56.73,AB_G7,Absolute Beginner
+AB543,10,9.5,-,-,-,-,-,19.5,AB_G7,Absolute Beginner
+AB544,10,7.5,10,10,9,7.73,-,54.23,AB_G7,Absolute Beginner
+AB545,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB546,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB547,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB548,10,10,9,7,10,7.73,-,53.73,AB_G7,Absolute Beginner
+AB549,10,6,10,7,10,9.09,10,62.09,AB_G7,Absolute Beginner
+AB550,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB551,10,7.5,9,9,9,9.09,-,53.59,AB_G7,Absolute Beginner
+AB552,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB553,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB554,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB555,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB556,9,9,-,-,-,-,-,18,AB_G7,Absolute Beginner
+AB557,10,7,-,-,10,-,-,27,AB_G7,Absolute Beginner
+AB558,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB559,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB560,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB561,10,8,10,10,8,10,10,66,AB_G7,Absolute Beginner
+AB562,10,8.5,-,-,-,-,-,18.5,AB_G7,Absolute Beginner
+AB563,8,9,8,9,6,7.73,-,47.73,AB_G7,Absolute Beginner
+AB564,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB565,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB566,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB567,7,8.5,8,6,8,6.82,-,44.32,AB_G7,Absolute Beginner
+AB568,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB569,-,-,-,-,-,-,-,-,AB_G7,Absolute Beginner
+AB570,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB571,10,7,9,7,8,10,-,51,AB_G8,Absolute Beginner
+AB572,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB573,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB574,10,10,8,8,9,10,-,55,AB_G8,Absolute Beginner
+AB575,8,10,10,9,10,9.55,-,56.55,AB_G8,Absolute Beginner
+AB576,10,8,10,9,8,6.36,-,51.36,AB_G8,Absolute Beginner
+AB577,9,8.5,10,7,9,5.91,-,49.41,AB_G8,Absolute Beginner
+AB578,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB579,10,6,7,7,-,-,-,30,AB_G8,Absolute Beginner
+AB580,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB581,10,9.5,10,10,10,8.64,-,58.14,AB_G8,Absolute Beginner
+AB582,10,9.5,9,10,9,7.73,-,55.23,AB_G8,Absolute Beginner
+AB583,10,6.5,6,6,6,-,-,34.5,AB_G8,Absolute Beginner
+AB584,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB585,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB586,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB587,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB588,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB589,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB590,8,6.5,10,5,-,-,-,29.5,AB_G8,Absolute Beginner
+AB591,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB592,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB593,9,8.5,10,9,9,10,-,55.5,AB_G8,Absolute Beginner
+AB594,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB595,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB596,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB597,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB598,-,-,-,-,-,-,-,-,AB_G8,Absolute Beginner
+AB599,10,8.5,10,9,10,7.73,-,55.23,AB_G8,Absolute Beginner
+AB600,8,9,8,9,9,9.55,-,52.55,AB_G8,Absolute Beginner
+AB601,10,7.5,10,9,9,7.73,-,53.23,AB_G9,Absolute Beginner
+AB602,9,9,9,9,8,8.64,-,52.64,AB_G9,Absolute Beginner
+AB603,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB604,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB605,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB606,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB607,10,10,10,9,9,8.18,-,56.18,AB_G9,Absolute Beginner
+AB608,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB609,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB610,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB611,10,10,-,-,-,-,-,20,AB_G9,Absolute Beginner
+AB612,10,8,-,-,-,-,-,18,AB_G9,Absolute Beginner
+AB613,6,8,5,-,-,-,-,19,AB_G9,Absolute Beginner
+AB614,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB615,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB616,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB617,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB618,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB619,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB620,9,5.5,8,5,7,5.91,5.5,45.91,AB_G9,Absolute Beginner
+AB621,9,8,-,-,-,-,-,17,AB_G9,Absolute Beginner
+AB622,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB623,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB624,9,8,9,9,9,6.82,-,50.82,AB_G9,Absolute Beginner
+AB625,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB626,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB627,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB628,10,6.5,8,-,-,-,-,24.5,AB_G9,Absolute Beginner
+AB629,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB630,7,5.5,-,-,-,-,-,12.5,AB_G9,Absolute Beginner
+AB631,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB632,6,8,3,6,5,1.82,-,29.82,AB_G9,Absolute Beginner
+AB633,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB634,-,-,-,-,-,-,-,-,AB_G9,Absolute Beginner
+AB635,9,5.5,6,7,8,5.45,-,40.95,AB_G9,Absolute Beginner
+B1,8,10,8,10,10,5.91,-,51.91,B_1,Beginner
+B2,9,10,9,10,10,6.36,-,54.36,B_1,Beginner
+B3,8,-,-,-,-,-,-,8,B_1,Beginner
+B4,9,-,-,-,-,-,-,9,B_1,Beginner
+B5,9,-,-,-,-,-,-,9,B_1,Beginner
+B6,10,-,-,-,-,-,-,10,B_1,Beginner
+B7,5,-,-,-,-,-,9.5,14.5,B_1,Beginner
+B8,10,4.5,-,-,-,-,-,14.5,B_1,Beginner
+B9,10,-,-,-,-,-,7,17,B_1,Beginner
+B10,10,8.5,-,-,-,-,-,18.5,B_1,Beginner
+B11,10,10,-,-,-,-,-,20,B_1,Beginner
+B12,9,9,6,-,-,-,-,24,B_1,Beginner
+B13,10,7,-,-,-,7.73,-,24.73,B_1,Beginner
+B14,9,8.5,8,-,-,-,-,25.5,B_1,Beginner
+B15,10,9,9,-,-,-,-,28,B_1,Beginner
+B16,10,9,10,-,-,-,-,29,B_1,Beginner
+B17,10,10,6,-,-,-,7.5,33.5,B_1,Beginner
+B18,8,6.5,9,6,9,-,-,38.5,B_1,Beginner
+B19,7,6.5,9,5,7,5.91,-,40.41,B_1,Beginner
+B20,9,8.5,10,7,9,-,-,43.5,B_1,Beginner
+B21,8,9,5,7,9,6.82,-,44.82,B_1,Beginner
+B22,10,4,6,7,7,6.82,4,44.82,B_1,Beginner
+B23,8,6,8,8,9,5.91,-,44.91,B_1,Beginner
+B24,9,9.5,9,9,9,-,-,45.5,B_1,Beginner
+B25,9,9,9,9,10,-,-,46,B_1,Beginner
+B26,10,10,10,9,9,-,-,48,B_1,Beginner
+B27,9,7.5,8,9,8,7.73,-,49.23,B_1,Beginner
+B28,9,7,10,8,9,6.82,-,49.82,B_1,Beginner
+B29,8,8,8,9,10,7.73,-,50.73,B_1,Beginner
+B30,9,9.5,9,9,7,9.09,-,52.59,B_1,Beginner
+B31,10,8.5,10,9,9,6.82,-,53.32,B_1,Beginner
+B32,10,8.5,10,10,7,8.64,-,54.14,B_1,Beginner
+B33,8,10,9,10,9,8.18,-,54.18,B_1,Beginner
+B34,10,10,9,9,9,8.18,-,55.18,B_1,Beginner
+B35,10,9,9,10,10,7.73,-,55.73,B_1,Beginner
+B36,10,9.5,10,10,10,6.82,-,56.32,B_1,Beginner
+B37,10,10,10,9,10,8.18,-,57.18,B_1,Beginner
+B38,10,9.5,10,10,10,8.64,-,58.14,B_1,Beginner
+B39,9,8.5,9,8,9,7.27,8.5,59.27,B_1,Beginner
+B40,9,10,10,10,10,8.18,10,67.18,B_1,Beginner
+B41,-,-,-,-,-,-,-,-,B_1,Beginner
+B42,-,-,-,-,-,-,-,-,B_1,Beginner
+B43,-,-,-,-,-,-,-,-,B_1,Beginner
+B44,-,-,-,-,-,-,-,-,B_1,Beginner
+B45,-,-,-,-,-,-,-,-,B_1,Beginner
+B46,-,-,-,-,-,-,-,-,B_1,Beginner
+B47,-,-,-,-,-,-,-,-,B_1,Beginner
+B48,-,-,-,-,-,-,-,-,B_1,Beginner
+B49,-,-,-,-,-,-,-,-,B_1,Beginner
+B50,-,-,-,-,-,-,-,-,B_1,Beginner
+B51,-,-,-,-,-,-,-,-,B_1,Beginner
+B52,-,-,-,-,-,-,-,-,B_1,Beginner
+B53,-,-,-,-,-,-,-,-,B_1,Beginner
+B54,-,-,-,-,-,-,-,-,B_1,Beginner
+B55,-,-,-,-,-,-,-,-,B_1,Beginner
+B56,-,-,-,-,-,-,-,-,B_1,Beginner
+B57,-,-,-,-,-,-,-,-,B_1,Beginner
+B58,-,-,-,-,-,-,-,-,B_1,Beginner
+B59,-,-,-,-,-,-,-,-,B_1,Beginner
+B60,-,-,-,-,-,-,-,-,B_1,Beginner
+B61,-,-,-,-,-,-,-,-,B_1,Beginner
+B62,-,-,-,-,-,-,-,-,B_1,Beginner
+B63,-,-,-,-,-,-,-,-,B_1,Beginner
+B64,-,-,-,-,-,-,-,-,B_1,Beginner
+B65,-,-,-,-,-,-,-,-,B_1,Beginner
+B66,-,-,-,-,-,-,-,-,B_1,Beginner
+B67,-,-,-,-,-,-,-,-,B_1,Beginner
+B68,-,-,-,-,-,-,-,-,B_1,Beginner
+B69,-,-,-,-,-,-,-,-,B_1,Beginner
+B70,-,-,-,-,-,-,-,-,B_1,Beginner
+B71,-,-,-,-,-,-,-,-,B_1,Beginner
+B72,-,-,-,-,-,-,-,-,B_1,Beginner
+B73,-,-,-,-,-,-,-,-,B_1,Beginner
+B74,-,-,-,-,-,-,-,-,B_1,Beginner
+B75,-,-,-,-,-,-,-,-,B_1,Beginner
+B76,-,-,-,-,-,-,-,-,B_1,Beginner
+B77,-,-,-,-,-,-,-,-,B_1,Beginner
+B78,-,-,-,-,-,-,-,-,B_1,Beginner
+B79,-,-,-,-,-,-,-,-,B_1,Beginner
+B80,-,-,-,-,-,-,-,-,B_1,Beginner
+B81,-,-,-,-,-,-,-,-,B_1,Beginner
+B82,-,-,-,-,-,-,-,-,B_1,Beginner
+B83,-,-,-,-,-,-,-,-,B_1,Beginner
+B84,-,7.5,-,-,-,-,-,7.5,B_10,Beginner
+B85,9,-,-,-,-,-,-,9,B_10,Beginner
+B86,9,-,-,-,-,-,-,9,B_10,Beginner
+B87,10,-,-,-,-,-,-,10,B_10,Beginner
+B88,10,-,-,-,-,-,-,10,B_10,Beginner
+B89,8,6.5,7,-,-,-,-,21.5,B_10,Beginner
+B90,8,7.5,9,7,-,-,-,31.5,B_10,Beginner
+B91,8,8.5,7,7,9,-,-,39.5,B_10,Beginner
+B92,9,5.5,4,8,8,5.91,-,40.41,B_10,Beginner
+B93,8,6.5,10,8,8,-,-,40.5,B_10,Beginner
+B94,8,5,6,8,6,8.64,-,41.64,B_10,Beginner
+B95,10,7.5,7,9,9,-,-,42.5,B_10,Beginner
+B96,7,8,8,7,8,4.55,-,42.55,B_10,Beginner
+B97,7,9.5,7,9,7,5.45,-,44.95,B_10,Beginner
+B98,10,5.5,9,6,9,7.73,-,47.23,B_10,Beginner
+B99,9,7,5,9,10,7.27,-,47.27,B_10,Beginner
+B100,9,6.5,8,9,8,7.73,-,48.23,B_10,Beginner
+B101,9,6.5,10,6,9,8.64,-,49.14,B_10,Beginner
+B102,10,7.5,8,8,8,8.18,-,49.68,B_10,Beginner
+B103,8,7,8,9,10,8.18,-,50.18,B_10,Beginner
+B104,10,9,9,9,8,6.82,-,51.82,B_10,Beginner
+B105,10,9.5,4,9,10,9.55,-,52.05,B_10,Beginner
+B106,10,9,9,9,6,9.55,-,52.55,B_10,Beginner
+B107,9,10,10,9,8,8.64,-,54.64,B_10,Beginner
+B108,10,9,10,10,9,6.82,-,54.82,B_10,Beginner
+B109,8,9.5,10,10,10,8.18,-,55.68,B_10,Beginner
+B110,10,9.5,10,10,10,6.82,-,56.32,B_10,Beginner
+B111,9,10,10,10,9,8.64,-,56.64,B_10,Beginner
+B112,10,10,8,10,10,8.64,-,56.64,B_10,Beginner
+B113,10,10,10,10,10,6.82,-,56.82,B_10,Beginner
+B114,9,8.5,10,10,10,9.55,-,57.05,B_10,Beginner
+B115,9,10,9,10,10,9.09,-,57.09,B_10,Beginner
+B116,10,10,9,9,10,10,-,58,B_10,Beginner
+B117,10,9.5,9,10,10,9.55,-,58.05,B_10,Beginner
+B118,10,8,10,10,10,7.73,9,64.73,B_10,Beginner
+B119,10,10,10,10,10,9.09,9,68.09,B_10,Beginner
+B120,10,10,10,9,10,9.55,10,68.55,B_10,Beginner
+B121,-,-,-,-,-,-,-,-,B_10,Beginner
+B122,-,-,-,-,-,-,-,-,B_10,Beginner
+B123,-,-,-,-,-,-,-,-,B_10,Beginner
+B124,-,-,-,-,-,-,-,-,B_10,Beginner
+B125,-,-,-,-,-,-,-,-,B_10,Beginner
+B126,-,-,-,-,-,-,-,-,B_10,Beginner
+B127,-,-,-,-,-,-,-,-,B_10,Beginner
+B128,-,-,-,-,-,-,-,-,B_10,Beginner
+B129,-,-,-,-,-,-,-,-,B_10,Beginner
+B130,-,-,-,-,-,-,-,-,B_10,Beginner
+B131,-,-,-,-,-,-,-,-,B_10,Beginner
+B132,-,-,-,-,-,-,-,-,B_10,Beginner
+B133,-,-,-,-,-,-,-,-,B_10,Beginner
+B134,-,-,-,-,-,-,-,-,B_10,Beginner
+B135,-,-,-,-,-,-,-,-,B_10,Beginner
+B136,-,-,-,-,-,-,-,-,B_10,Beginner
+B137,-,-,-,-,-,-,-,-,B_10,Beginner
+B138,-,-,-,-,-,-,-,-,B_10,Beginner
+B139,-,-,-,-,-,-,-,-,B_10,Beginner
+B140,-,-,-,-,-,-,-,-,B_10,Beginner
+B141,-,-,-,-,-,-,-,-,B_10,Beginner
+B142,-,-,-,-,-,-,-,-,B_10,Beginner
+B143,-,-,-,-,-,-,-,-,B_10,Beginner
+B144,-,-,-,-,-,-,-,-,B_10,Beginner
+B145,-,-,-,-,-,-,-,-,B_10,Beginner
+B146,-,-,-,-,-,-,-,-,B_10,Beginner
+B147,-,-,-,-,-,-,-,-,B_10,Beginner
+B148,-,-,-,-,-,-,-,-,B_10,Beginner
+B149,-,-,-,-,-,-,-,-,B_10,Beginner
+B150,-,-,-,-,-,-,-,-,B_10,Beginner
+B151,-,-,-,-,-,-,-,-,B_10,Beginner
+B152,-,-,-,-,-,-,-,-,B_10,Beginner
+B153,-,-,-,-,-,-,-,-,B_10,Beginner
+B154,-,-,-,-,-,-,-,-,B_10,Beginner
+B155,-,-,-,-,-,-,-,-,B_10,Beginner
+B156,-,-,-,-,-,-,-,-,B_10,Beginner
+B157,-,-,-,-,-,-,-,-,B_10,Beginner
+B158,-,-,-,-,-,-,-,-,B_10,Beginner
+B159,-,-,-,-,-,-,-,-,B_10,Beginner
+B160,-,-,-,-,-,-,-,-,B_10,Beginner
+B161,-,-,-,-,-,-,-,-,B_10,Beginner
+B162,-,-,-,-,-,-,-,-,B_10,Beginner
+B163,-,-,-,-,-,-,-,-,B_10,Beginner
+B164,-,-,-,-,-,-,-,-,B_10,Beginner
+B165,-,-,-,-,-,-,-,-,B_10,Beginner
+B166,-,-,-,-,-,-,-,-,B_10,Beginner
+B167,-,5.5,-,-,-,-,-,5.5,B_2,Beginner
+B168,6,-,-,-,-,-,-,6,B_2,Beginner
+B169,7,-,-,-,-,-,-,7,B_2,Beginner
+B170,7,-,-,-,-,-,-,7,B_2,Beginner
+B171,3,-,-,-,6,-,-,9,B_2,Beginner
+B172,8,5.5,-,-,-,-,-,13.5,B_2,Beginner
+B173,9,8,-,-,-,-,-,17,B_2,Beginner
+B174,9,10,-,-,-,-,-,19,B_2,Beginner
+B175,10,9,-,-,-,-,-,19,B_2,Beginner
+B176,7,4,9,9,-,-,-,29,B_2,Beginner
+B177,8,7,9,6,-,-,-,30,B_2,Beginner
+B178,7,7.5,10,-,-,5.91,-,30.41,B_2,Beginner
+B179,9,10,8,10,-,-,-,37,B_2,Beginner
+B180,9,10,10,10,-,-,-,39,B_2,Beginner
+B181,10,6,7,10,7,-,-,40,B_2,Beginner
+B182,10,7,5,6,8,7.27,-,43.27,B_2,Beginner
+B183,9,8,10,8,10,-,-,45,B_2,Beginner
+B184,10,6,9,7,8,7.73,-,47.73,B_2,Beginner
+B185,9,7,8,8,9,7.73,-,48.73,B_2,Beginner
+B186,8,9.5,10,8,10,5.91,-,51.41,B_2,Beginner
+B187,10,8.5,10,8,9,5.91,-,51.41,B_2,Beginner
+B188,7,7.5,8,8,9,8.64,6,54.14,B_2,Beginner
+B189,10,8.5,10,10,10,5.91,-,54.41,B_2,Beginner
+B190,9,8.5,9,10,9,9.09,-,54.59,B_2,Beginner
+B191,10,9,10,8,10,7.73,-,54.73,B_2,Beginner
+B192,10,9,10,9,9,7.73,-,54.73,B_2,Beginner
+B193,9,10,10,10,9,8.64,-,56.64,B_2,Beginner
+B194,10,8.5,10,10,9,9.55,-,57.05,B_2,Beginner
+B195,6,9.5,8,9,7,8.18,10,57.68,B_2,Beginner
+B196,10,6.5,7,10,9,7.73,8.5,58.73,B_2,Beginner
+B197,9,7,9,9,10,7.27,9.5,60.77,B_2,Beginner
+B198,9,9,9,10,8,8.64,8.5,62.14,B_2,Beginner
+B199,10,9.5,10,10,9,6.36,7.5,62.36,B_2,Beginner
+B200,10,8,10,10,10,7.73,10,65.73,B_2,Beginner
+B201,10,10,10,10,10,8.64,8,66.64,B_2,Beginner
+B202,10,10,10,9,10,9.09,9,67.09,B_2,Beginner
+B203,-,-,-,-,-,-,-,-,B_2,Beginner
+B204,-,-,-,-,-,-,-,-,B_2,Beginner
+B205,-,-,-,-,-,-,-,-,B_2,Beginner
+B206,-,-,-,-,-,-,-,-,B_2,Beginner
+B207,-,-,-,-,-,-,-,-,B_2,Beginner
+B208,-,-,-,-,-,-,-,-,B_2,Beginner
+B209,-,-,-,-,-,-,-,-,B_2,Beginner
+B210,-,-,-,-,-,-,-,-,B_2,Beginner
+B211,-,-,-,-,-,-,-,-,B_2,Beginner
+B212,-,-,-,-,-,-,-,-,B_2,Beginner
+B213,-,-,-,-,-,-,-,-,B_2,Beginner
+B214,-,-,-,-,-,-,-,-,B_2,Beginner
+B215,-,-,-,-,-,-,-,-,B_2,Beginner
+B216,-,-,-,-,-,-,-,-,B_2,Beginner
+B217,-,-,-,-,-,-,-,-,B_2,Beginner
+B218,-,-,-,-,-,-,-,-,B_2,Beginner
+B219,-,-,-,-,-,-,-,-,B_2,Beginner
+B220,-,-,-,-,-,-,-,-,B_2,Beginner
+B221,-,-,-,-,-,-,-,-,B_2,Beginner
+B222,-,-,-,-,-,-,-,-,B_2,Beginner
+B223,-,-,-,-,-,-,-,-,B_2,Beginner
+B224,-,-,-,-,-,-,-,-,B_2,Beginner
+B225,-,-,-,-,-,-,-,-,B_2,Beginner
+B226,-,-,-,-,-,-,-,-,B_2,Beginner
+B227,-,-,-,-,-,-,-,-,B_2,Beginner
+B228,-,-,-,-,-,-,-,-,B_2,Beginner
+B229,-,-,-,-,-,-,-,-,B_2,Beginner
+B230,-,-,-,-,-,-,-,-,B_2,Beginner
+B231,-,-,-,-,-,-,-,-,B_2,Beginner
+B232,-,-,-,-,-,-,-,-,B_2,Beginner
+B233,-,-,-,-,-,-,-,-,B_2,Beginner
+B234,-,-,-,-,-,-,-,-,B_2,Beginner
+B235,-,-,-,-,-,-,-,-,B_2,Beginner
+B236,-,-,-,-,-,-,-,-,B_2,Beginner
+B237,-,-,-,-,-,-,-,-,B_2,Beginner
+B238,-,-,-,-,-,-,-,-,B_2,Beginner
+B239,-,-,-,-,-,-,-,-,B_2,Beginner
+B240,-,-,-,-,-,-,-,-,B_2,Beginner
+B241,-,-,-,-,-,-,-,-,B_2,Beginner
+B242,-,-,-,-,-,-,-,-,B_2,Beginner
+B243,-,-,-,-,-,-,-,-,B_2,Beginner
+B244,-,-,-,-,-,-,-,-,B_2,Beginner
+B245,-,-,-,-,-,-,-,-,B_2,Beginner
+B246,-,-,-,-,-,-,-,-,B_2,Beginner
+B247,-,-,-,-,-,-,-,-,B_2,Beginner
+B248,3,-,-,-,-,-,-,3,B_3,Beginner
+B249,3,4,-,-,-,-,-,7,B_3,Beginner
+B250,-,9,-,-,-,-,-,9,B_3,Beginner
+B251,9,-,-,-,-,-,-,9,B_3,Beginner
+B252,10,-,-,-,-,-,-,10,B_3,Beginner
+B253,7,6.5,-,-,-,-,-,13.5,B_3,Beginner
+B254,7,6.5,3,-,-,-,-,16.5,B_3,Beginner
+B255,9,8,-,-,-,-,-,17,B_3,Beginner
+B256,9,8,-,-,-,-,-,17,B_3,Beginner
+B257,9,9,-,-,-,-,-,18,B_3,Beginner
+B258,10,5.5,9,-,-,-,-,24.5,B_3,Beginner
+B259,10,8,9,-,-,-,-,27,B_3,Beginner
+B260,10,9.5,9,-,-,-,-,28.5,B_3,Beginner
+B261,7,6,10,10,-,-,-,33,B_3,Beginner
+B262,9,7,9,8,-,-,-,33,B_3,Beginner
+B263,10,6.5,8,9,-,-,-,33.5,B_3,Beginner
+B264,6,7,8,6,6,3.18,-,36.18,B_3,Beginner
+B265,9,9,10,10,-,-,-,38,B_3,Beginner
+B266,10,10,9,9,-,-,-,38,B_3,Beginner
+B267,9,6,9,9,9,-,-,42,B_3,Beginner
+B268,10,6,10,8,10,-,-,44,B_3,Beginner
+B269,7,7,8,9,8,8.18,-,47.18,B_3,Beginner
+B270,7,8.5,8,10,8,7.73,-,49.23,B_3,Beginner
+B271,10,7.5,8,9,8,6.82,-,49.32,B_3,Beginner
+B272,9,9,9,6,8,8.64,-,49.64,B_3,Beginner
+B273,8,8,8,9,10,6.82,-,49.82,B_3,Beginner
+B274,9,6.5,9,8,10,7.73,-,50.23,B_3,Beginner
+B275,10,8,10,8,8,6.82,-,50.82,B_3,Beginner
+B276,9,7.5,10,9,7,8.64,-,51.14,B_3,Beginner
+B277,8,9,8,10,8,8.64,-,51.64,B_3,Beginner
+B278,9,9.5,8,10,8,7.73,-,52.23,B_3,Beginner
+B279,9,9.5,8,8,10,8.64,-,53.14,B_3,Beginner
+B280,9,10,8,10,9,7.73,-,53.73,B_3,Beginner
+B281,10,9.5,9,9,10,7.73,-,55.23,B_3,Beginner
+B282,10,8,10,10,9,9.09,-,56.09,B_3,Beginner
+B283,10,10,10,10,10,6.36,-,56.36,B_3,Beginner
+B284,10,8.5,10,9,10,9.09,-,56.59,B_3,Beginner
+B285,10,10,10,10,10,8.18,-,58.18,B_3,Beginner
+B286,10,10,9,10,10,9.55,-,58.55,B_3,Beginner
+B287,10,10,10,9,10,10,-,59,B_3,Beginner
+B288,10,9.5,10,10,10,9.55,-,59.05,B_3,Beginner
+B289,7,10,9,10,9,7.73,9,61.73,B_3,Beginner
+B290,10,9,10,9,9,8.64,8,63.64,B_3,Beginner
+B291,10,9,9,9,9,8.64,10,64.64,B_3,Beginner
+B292,-,-,-,-,-,-,-,-,B_3,Beginner
+B293,-,-,-,-,-,-,-,-,B_3,Beginner
+B294,-,-,-,-,-,-,-,-,B_3,Beginner
+B295,-,-,-,-,-,-,-,-,B_3,Beginner
+B296,-,-,-,-,-,-,-,-,B_3,Beginner
+B297,-,-,-,-,-,-,-,-,B_3,Beginner
+B298,-,-,-,-,-,-,-,-,B_3,Beginner
+B299,-,-,-,-,-,-,-,-,B_3,Beginner
+B300,-,-,-,-,-,-,-,-,B_3,Beginner
+B301,-,-,-,-,-,-,-,-,B_3,Beginner
+B302,-,-,-,-,-,-,-,-,B_3,Beginner
+B303,-,-,-,-,-,-,-,-,B_3,Beginner
+B304,-,-,-,-,-,-,-,-,B_3,Beginner
+B305,-,-,-,-,-,-,-,-,B_3,Beginner
+B306,-,-,-,-,-,-,-,-,B_3,Beginner
+B307,-,-,-,-,-,-,-,-,B_3,Beginner
+B308,-,-,-,-,-,-,-,-,B_3,Beginner
+B309,-,-,-,-,-,-,-,-,B_3,Beginner
+B310,-,-,-,-,-,-,-,-,B_3,Beginner
+B311,-,-,-,-,-,-,-,-,B_3,Beginner
+B312,-,-,-,-,-,-,-,-,B_3,Beginner
+B313,-,-,-,-,-,-,-,-,B_3,Beginner
+B314,-,-,-,-,-,-,-,-,B_3,Beginner
+B315,-,-,-,-,-,-,-,-,B_3,Beginner
+B316,-,-,-,-,-,-,-,-,B_3,Beginner
+B317,-,-,-,-,-,-,-,-,B_3,Beginner
+B318,-,-,-,-,-,-,-,-,B_3,Beginner
+B319,-,-,-,-,-,-,-,-,B_3,Beginner
+B320,-,-,-,-,-,-,-,-,B_3,Beginner
+B321,-,-,-,-,-,-,-,-,B_3,Beginner
+B322,-,-,-,-,-,-,-,-,B_3,Beginner
+B323,-,-,-,-,-,-,-,-,B_3,Beginner
+B324,-,-,-,-,-,-,-,-,B_3,Beginner
+B325,-,-,-,-,-,-,-,-,B_3,Beginner
+B326,-,-,-,-,-,-,-,-,B_3,Beginner
+B327,-,-,-,-,-,-,-,-,B_3,Beginner
+B328,5,-,-,-,-,-,-,5,B_4,Beginner
+B329,7,-,-,-,-,-,-,7,B_4,Beginner
+B330,8,-,-,-,-,-,-,8,B_4,Beginner
+B331,-,-,-,-,-,-,8.5,8.5,B_4,Beginner
+B332,9,-,-,-,-,-,-,9,B_4,Beginner
+B333,10,-,-,-,-,-,-,10,B_4,Beginner
+B334,9,8,-,-,-,-,-,17,B_4,Beginner
+B335,10,10,-,-,-,-,-,20,B_4,Beginner
+B336,9,5,7,-,-,-,-,21,B_4,Beginner
+B337,7,5.5,9,-,-,-,-,21.5,B_4,Beginner
+B338,10,7.5,-,9,-,-,-,26.5,B_4,Beginner
+B339,8,10,9,-,-,-,-,27,B_4,Beginner
+B340,9,9.5,9,9,8,-,-,44.5,B_4,Beginner
+B341,9,9,5,6,8,8.64,-,45.64,B_4,Beginner
+B342,9,9,10,9,9,-,-,46,B_4,Beginner
+B343,10,7,10,10,10,-,-,47,B_4,Beginner
+B344,9,10,10,9,10,-,-,48,B_4,Beginner
+B345,10,8.5,9,9,8,4.09,-,48.59,B_4,Beginner
+B346,10,7,9,10,8,6.82,-,50.82,B_4,Beginner
+B347,10,9,9,8,9,6.82,-,51.82,B_4,Beginner
+B348,10,9.5,10,8,9,5.91,-,52.41,B_4,Beginner
+B349,9,7.5,10,10,8,8.64,-,53.14,B_4,Beginner
+B350,10,8.5,8,10,9,7.73,-,53.23,B_4,Beginner
+B351,10,9,9,8,10,8.64,-,54.64,B_4,Beginner
+B352,10,10,10,9,9,8.64,-,56.64,B_4,Beginner
+B353,9,10,10,9,10,8.64,-,56.64,B_4,Beginner
+B354,10,9.5,9,9,10,9.55,-,57.05,B_4,Beginner
+B355,9,10,9,10,10,9.55,-,57.55,B_4,Beginner
+B356,10,9.5,10,9,10,9.09,-,57.59,B_4,Beginner
+B357,9,6,9,9,10,7.73,7,57.73,B_4,Beginner
+B358,10,10,10,10,10,8.64,-,58.64,B_4,Beginner
+B359,10,10,10,10,10,8.64,-,58.64,B_4,Beginner
+B360,10,10,9,10,10,10,-,59,B_4,Beginner
+B361,9,8,10,9,10,6.82,8.5,61.32,B_4,Beginner
+B362,10,8.5,9,10,8,8.64,7.5,61.64,B_4,Beginner
+B363,8,9,10,9,9,8.64,8.5,62.14,B_4,Beginner
+B364,10,9.5,9,8,8,7.73,10,62.23,B_4,Beginner
+B365,10,9,10,9,9,7.73,10,64.73,B_4,Beginner
+B366,10,10,7,10,10,8.64,10,65.64,B_4,Beginner
+B367,8,9,10,10,10,10,10,67,B_4,Beginner
+B368,10,10,10,9,10,10,10,69,B_4,Beginner
+B369,-,-,-,-,-,-,-,-,B_4,Beginner
+B370,-,-,-,-,-,-,-,-,B_4,Beginner
+B371,-,-,-,-,-,-,-,-,B_4,Beginner
+B372,-,-,-,-,-,-,-,-,B_4,Beginner
+B373,-,-,-,-,-,-,-,-,B_4,Beginner
+B374,-,-,-,-,-,-,-,-,B_4,Beginner
+B375,-,-,-,-,-,-,-,-,B_4,Beginner
+B376,-,-,-,-,-,-,-,-,B_4,Beginner
+B377,-,-,-,-,-,-,-,-,B_4,Beginner
+B378,-,-,-,-,-,-,-,-,B_4,Beginner
+B379,-,-,-,-,-,-,-,-,B_4,Beginner
+B380,-,-,-,-,-,-,-,-,B_4,Beginner
+B381,-,-,-,-,-,-,-,-,B_4,Beginner
+B382,-,-,-,-,-,-,-,-,B_4,Beginner
+B383,-,-,-,-,-,-,-,-,B_4,Beginner
+B384,-,-,-,-,-,-,-,-,B_4,Beginner
+B385,-,-,-,-,-,-,-,-,B_4,Beginner
+B386,-,-,-,-,-,-,-,-,B_4,Beginner
+B387,-,-,-,-,-,-,-,-,B_4,Beginner
+B388,-,-,-,-,-,-,-,-,B_4,Beginner
+B389,-,-,-,-,-,-,-,-,B_4,Beginner
+B390,-,-,-,-,-,-,-,-,B_4,Beginner
+B391,-,-,-,-,-,-,-,-,B_4,Beginner
+B392,-,-,-,-,-,-,-,-,B_4,Beginner
+B393,-,-,-,-,-,-,-,-,B_4,Beginner
+B394,-,-,-,-,-,-,-,-,B_4,Beginner
+B395,-,-,-,-,-,-,-,-,B_4,Beginner
+B396,-,-,-,-,-,-,-,-,B_4,Beginner
+B397,-,-,-,-,-,-,-,-,B_4,Beginner
+B398,-,-,-,-,-,-,-,-,B_4,Beginner
+B399,-,-,-,-,-,-,-,-,B_4,Beginner
+B400,-,-,-,-,-,-,-,-,B_4,Beginner
+B401,-,-,-,-,-,-,-,-,B_4,Beginner
+B402,-,-,-,-,-,-,-,-,B_4,Beginner
+B403,-,-,-,-,-,-,-,-,B_4,Beginner
+B404,-,-,-,-,-,-,-,-,B_4,Beginner
+B405,-,-,-,-,-,-,-,-,B_4,Beginner
+B406,-,-,-,-,-,-,-,-,B_4,Beginner
+B407,-,-,-,-,-,-,-,-,B_4,Beginner
+B408,8,-,-,-,-,-,-,8,B_5,Beginner
+B409,8,-,-,-,-,-,-,8,B_5,Beginner
+B410,-,-,-,-,-,-,9,9,B_5,Beginner
+B411,-,-,-,-,-,-,9.5,9.5,B_5,Beginner
+B412,7,7,-,-,-,-,-,14,B_5,Beginner
+B413,9,5.5,-,-,-,-,-,14.5,B_5,Beginner
+B414,7,8,-,-,-,-,-,15,B_5,Beginner
+B415,9,6.5,-,-,-,-,-,15.5,B_5,Beginner
+B416,8,9,-,-,-,-,-,17,B_5,Beginner
+B417,9,8.5,-,-,-,-,-,17.5,B_5,Beginner
+B418,9,9,-,-,-,-,-,18,B_5,Beginner
+B419,9,6.5,9,-,-,-,-,24.5,B_5,Beginner
+B420,9,8,10,-,-,-,-,27,B_5,Beginner
+B421,9,10,10,-,-,-,-,29,B_5,Beginner
+B422,6,5,3,5,5,3.18,4.5,31.68,B_5,Beginner
+B423,8,7.5,6,6,6,-,-,33.5,B_5,Beginner
+B424,10,4.5,9,5,9,-,-,37.5,B_5,Beginner
+B425,7,6,9,-,7,8.64,-,37.64,B_5,Beginner
+B426,7,8,8,8,8,5,-,44,B_5,Beginner
+B427,10,6,7,8,9,9.09,-,49.09,B_5,Beginner
+B428,10,5,9,9,9,8.64,-,50.64,B_5,Beginner
+B429,10,8,8,8,9,8.18,-,51.18,B_5,Beginner
+B430,10,8,8,9,10,6.82,-,51.82,B_5,Beginner
+B431,10,7,7,7,9,5.91,6,51.91,B_5,Beginner
+B432,9,8,9,10,10,7.73,-,53.73,B_5,Beginner
+B433,9,9,10,10,9,6.82,-,53.82,B_5,Beginner
+B434,10,9,10,10,9,6.36,-,54.36,B_5,Beginner
+B435,10,9,10,9,-,8.18,8.5,54.68,B_5,Beginner
+B436,10,9,10,9,9,7.73,-,54.73,B_5,Beginner
+B437,10,9,10,8,10,8.64,-,55.64,B_5,Beginner
+B438,9,10,10,10,10,7.27,-,56.27,B_5,Beginner
+B439,10,8.5,10,10,10,8.64,-,57.14,B_5,Beginner
+B440,10,10,10,10,10,10,-,60,B_5,Beginner
+B441,9,7.5,10,10,10,7.73,8,62.23,B_5,Beginner
+B442,10,7,10,10,10,9.55,8,64.55,B_5,Beginner
+B443,10,8,10,9,9,9.09,10,65.09,B_5,Beginner
+B444,9,10,10,10,10,8.18,8.5,65.68,B_5,Beginner
+B445,10,10,10,10,10,9.55,10,69.55,B_5,Beginner
+B446,-,-,-,-,-,-,-,-,B_5,Beginner
+B447,-,-,-,-,-,-,-,-,B_5,Beginner
+B448,-,-,-,-,-,-,-,-,B_5,Beginner
+B449,-,-,-,-,-,-,-,-,B_5,Beginner
+B450,-,-,-,-,-,-,-,-,B_5,Beginner
+B451,-,-,-,-,-,-,-,-,B_5,Beginner
+B452,-,-,-,-,-,-,-,-,B_5,Beginner
+B453,-,-,-,-,-,-,-,-,B_5,Beginner
+B454,-,-,-,-,-,-,-,-,B_5,Beginner
+B455,-,-,-,-,-,-,-,-,B_5,Beginner
+B456,-,-,-,-,-,-,-,-,B_5,Beginner
+B457,-,-,-,-,-,-,-,-,B_5,Beginner
+B458,-,-,-,-,-,-,-,-,B_5,Beginner
+B459,-,-,-,-,-,-,-,-,B_5,Beginner
+B460,-,-,-,-,-,-,-,-,B_5,Beginner
+B461,-,-,-,-,-,-,-,-,B_5,Beginner
+B462,-,-,-,-,-,-,-,-,B_5,Beginner
+B463,-,-,-,-,-,-,-,-,B_5,Beginner
+B464,-,-,-,-,-,-,-,-,B_5,Beginner
+B465,-,-,-,-,-,-,-,-,B_5,Beginner
+B466,-,-,-,-,-,-,-,-,B_5,Beginner
+B467,-,-,-,-,-,-,-,-,B_5,Beginner
+B468,-,-,-,-,-,-,-,-,B_5,Beginner
+B469,-,-,-,-,-,-,-,-,B_5,Beginner
+B470,-,-,-,-,-,-,-,-,B_5,Beginner
+B471,-,-,-,-,-,-,-,-,B_5,Beginner
+B472,-,-,-,-,-,-,-,-,B_5,Beginner
+B473,-,-,-,-,-,-,-,-,B_5,Beginner
+B474,-,-,-,-,-,-,-,-,B_5,Beginner
+B475,-,-,-,-,-,-,-,-,B_5,Beginner
+B476,-,-,-,-,-,-,-,-,B_5,Beginner
+B477,-,-,-,-,-,-,-,-,B_5,Beginner
+B478,-,-,-,-,-,-,-,-,B_5,Beginner
+B479,-,-,-,-,-,-,-,-,B_5,Beginner
+B480,-,-,-,-,-,-,-,-,B_5,Beginner
+B481,-,-,-,-,-,-,-,-,B_5,Beginner
+B482,-,-,-,-,-,-,-,-,B_5,Beginner
+B483,-,-,-,-,-,-,-,-,B_5,Beginner
+B484,-,-,-,-,-,-,-,-,B_5,Beginner
+B485,-,-,-,-,-,-,-,-,B_5,Beginner
+B486,-,-,-,-,-,-,-,-,B_5,Beginner
+B487,-,-,-,-,-,-,-,-,B_5,Beginner
+B488,-,-,-,-,-,-,-,-,B_5,Beginner
+B489,8,-,-,-,-,-,-,8,B_6,Beginner
+B490,9,-,-,-,-,-,-,9,B_6,Beginner
+B491,10,-,-,-,-,-,-,10,B_6,Beginner
+B492,7,6.5,-,-,-,-,-,13.5,B_6,Beginner
+B493,7,7,-,-,-,-,-,14,B_6,Beginner
+B494,9,7,-,-,-,-,-,16,B_6,Beginner
+B495,8,9,-,-,-,-,-,17,B_6,Beginner
+B496,10,-,-,-,-,7.73,-,17.73,B_6,Beginner
+B497,10,8.5,-,-,-,-,-,18.5,B_6,Beginner
+B498,10,10,-,-,-,-,-,20,B_6,Beginner
+B499,9,6.5,9,-,-,-,-,24.5,B_6,Beginner
+B500,10,10,8,-,-,-,-,28,B_6,Beginner
+B501,10,10,-,-,-,-,8.5,28.5,B_6,Beginner
+B502,9,9.5,9,7,9,-,-,43.5,B_6,Beginner
+B503,7,6.5,10,8,8,5,-,44.5,B_6,Beginner
+B504,10,9.5,10,9,7,-,-,45.5,B_6,Beginner
+B505,9,8,10,10,10,-,-,47,B_6,Beginner
+B506,9,7,8,7,10,6.36,-,47.36,B_6,Beginner
+B507,8,9,8,7,9,6.82,-,47.82,B_6,Beginner
+B508,8,9.5,8,9,9,6.82,-,50.32,B_6,Beginner
+B509,8,7.5,10,9,7,9.09,-,50.59,B_6,Beginner
+B510,9,8,9,9,8,7.73,-,50.73,B_6,Beginner
+B511,9,9.5,9,10,7,-,8,52.5,B_6,Beginner
+B512,9,10,9,7,9,9.55,-,53.55,B_6,Beginner
+B513,10,10,8,10,9,8.18,-,55.18,B_6,Beginner
+B514,10,10,8,10,9,8.18,-,55.18,B_6,Beginner
+B515,9,10,10,9,9,9.55,-,56.55,B_6,Beginner
+B516,9,9,9,10,10,9.55,-,56.55,B_6,Beginner
+B517,9,7.5,10,10,10,7.73,8,62.23,B_6,Beginner
+B518,9,8.5,9,10,10,8.18,10,64.68,B_6,Beginner
+B519,9,10,10,8,9,9.09,10,65.09,B_6,Beginner
+B520,9,10,10,10,10,7.73,9,65.73,B_6,Beginner
+B521,10,8,10,10,10,9.55,9,66.55,B_6,Beginner
+B522,-,-,-,-,-,-,-,-,B_6,Beginner
+B523,-,-,-,-,-,-,-,-,B_6,Beginner
+B524,-,-,-,-,-,-,-,-,B_6,Beginner
+B525,-,-,-,-,-,-,-,-,B_6,Beginner
+B526,-,-,-,-,-,-,-,-,B_6,Beginner
+B527,-,-,-,-,-,-,-,-,B_6,Beginner
+B528,-,-,-,-,-,-,-,-,B_6,Beginner
+B529,-,-,-,-,-,-,-,-,B_6,Beginner
+B530,-,-,-,-,-,-,-,-,B_6,Beginner
+B531,-,-,-,-,-,-,-,-,B_6,Beginner
+B532,-,-,-,-,-,-,-,-,B_6,Beginner
+B533,-,-,-,-,-,-,-,-,B_6,Beginner
+B534,-,-,-,-,-,-,-,-,B_6,Beginner
+B535,-,-,-,-,-,-,-,-,B_6,Beginner
+B536,-,-,-,-,-,-,-,-,B_6,Beginner
+B537,-,-,-,-,-,-,-,-,B_6,Beginner
+B538,-,-,-,-,-,-,-,-,B_6,Beginner
+B539,-,-,-,-,-,-,-,-,B_6,Beginner
+B540,-,-,-,-,-,-,-,-,B_6,Beginner
+B541,-,-,-,-,-,-,-,-,B_6,Beginner
+B542,-,-,-,-,-,-,-,-,B_6,Beginner
+B543,-,-,-,-,-,-,-,-,B_6,Beginner
+B544,-,-,-,-,-,-,-,-,B_6,Beginner
+B545,-,-,-,-,-,-,-,-,B_6,Beginner
+B546,-,-,-,-,-,-,-,-,B_6,Beginner
+B547,-,-,-,-,-,-,-,-,B_6,Beginner
+B548,-,-,-,-,-,-,-,-,B_6,Beginner
+B549,-,-,-,-,-,-,-,-,B_6,Beginner
+B550,-,-,-,-,-,-,-,-,B_6,Beginner
+B551,-,-,-,-,-,-,-,-,B_6,Beginner
+B552,-,-,-,-,-,-,-,-,B_6,Beginner
+B553,-,-,-,-,-,-,-,-,B_6,Beginner
+B554,-,-,-,-,-,-,-,-,B_6,Beginner
+B555,-,-,-,-,-,-,-,-,B_6,Beginner
+B556,-,-,-,-,-,-,-,-,B_6,Beginner
+B557,-,-,-,-,-,-,-,-,B_6,Beginner
+B558,-,-,-,-,-,-,-,-,B_6,Beginner
+B559,-,-,-,-,-,-,-,-,B_6,Beginner
+B560,-,-,-,-,-,-,-,-,B_6,Beginner
+B561,-,-,-,-,-,-,-,-,B_6,Beginner
+B562,-,-,-,-,-,-,-,-,B_6,Beginner
+B563,-,-,-,-,-,-,-,-,B_6,Beginner
+B564,-,-,-,-,-,-,-,-,B_6,Beginner
+B565,-,-,-,-,-,-,-,-,B_6,Beginner
+B566,-,-,-,-,-,-,-,-,B_6,Beginner
+B567,-,-,-,-,-,-,-,-,B_6,Beginner
+B568,-,-,-,-,-,-,-,-,B_6,Beginner
+B569,-,-,-,-,-,-,-,-,B_6,Beginner
+B570,-,4,-,-,-,-,-,4,B_7,Beginner
+B571,7,-,-,-,-,-,-,7,B_7,Beginner
+B572,8,-,-,-,-,-,-,8,B_7,Beginner
+B573,-,8,-,-,-,-,-,8,B_7,Beginner
+B574,9,-,-,-,-,-,-,9,B_7,Beginner
+B575,6,7.5,-,-,-,-,-,13.5,B_7,Beginner
+B576,9,8.5,-,-,-,-,-,17.5,B_7,Beginner
+B577,10,10,-,-,-,-,-,20,B_7,Beginner
+B578,10,10,-,-,-,-,-,20,B_7,Beginner
+B579,9,9.5,4,-,-,-,-,22.5,B_7,Beginner
+B580,9,9,6,-,-,-,-,24,B_7,Beginner
+B581,10,8,-,-,-,-,8.5,26.5,B_7,Beginner
+B582,9,9,9,-,-,-,-,27,B_7,Beginner
+B583,10,5.5,10,8,-,-,-,33.5,B_7,Beginner
+B584,6,6.5,6,7,8,-,-,33.5,B_7,Beginner
+B585,10,7.5,9,8,-,-,-,34.5,B_7,Beginner
+B586,10,9.5,10,9,-,-,-,38.5,B_7,Beginner
+B587,8,6,7,9,9,-,-,39,B_7,Beginner
+B588,9,8,9,8,7,-,-,41,B_7,Beginner
+B589,8,9,10,8,9,-,-,44,B_7,Beginner
+B590,9,8.5,10,9,8,-,-,44.5,B_7,Beginner
+B591,7,7.5,10,7,9,5,-,45.5,B_7,Beginner
+B592,10,9.5,10,10,8,-,-,47.5,B_7,Beginner
+B593,10,7.5,10,10,10,-,-,47.5,B_7,Beginner
+B594,10,9,10,10,9,-,-,48,B_7,Beginner
+B595,9,8,8,8,7,8.64,-,48.64,B_7,Beginner
+B596,8,10,9,9,8,5.91,-,49.91,B_7,Beginner
+B597,10,7,9,9,8,7.73,-,50.73,B_7,Beginner
+B598,10,8.5,9,8,9,7.73,-,52.23,B_7,Beginner
+B599,8,6,10,9,9,5.91,5,52.91,B_7,Beginner
+B600,9,8,10,10,8,9.55,-,54.55,B_7,Beginner
+B601,9,10,10,10,10,8.18,-,57.18,B_7,Beginner
+B602,10,9,10,9,10,9.55,-,57.55,B_7,Beginner
+B603,9,9,9,10,9,6.82,10,62.82,B_7,Beginner
+B604,-,-,-,-,-,-,-,-,B_7,Beginner
+B605,-,-,-,-,-,-,-,-,B_7,Beginner
+B606,-,-,-,-,-,-,-,-,B_7,Beginner
+B607,-,-,-,-,-,-,-,-,B_7,Beginner
+B608,-,-,-,-,-,-,-,-,B_7,Beginner
+B609,-,-,-,-,-,-,-,-,B_7,Beginner
+B610,-,-,-,-,-,-,-,-,B_7,Beginner
+B611,-,-,-,-,-,-,-,-,B_7,Beginner
+B612,-,-,-,-,-,-,-,-,B_7,Beginner
+B613,-,-,-,-,-,-,-,-,B_7,Beginner
+B614,-,-,-,-,-,-,-,-,B_7,Beginner
+B615,-,-,-,-,-,-,-,-,B_7,Beginner
+B616,-,-,-,-,-,-,-,-,B_7,Beginner
+B617,-,-,-,-,-,-,-,-,B_7,Beginner
+B618,-,-,-,-,-,-,-,-,B_7,Beginner
+B619,-,-,-,-,-,-,-,-,B_7,Beginner
+B620,-,-,-,-,-,-,-,-,B_7,Beginner
+B621,-,-,-,-,-,-,-,-,B_7,Beginner
+B622,-,-,-,-,-,-,-,-,B_7,Beginner
+B623,-,-,-,-,-,-,-,-,B_7,Beginner
+B624,-,-,-,-,-,-,-,-,B_7,Beginner
+B625,-,-,-,-,-,-,-,-,B_7,Beginner
+B626,-,-,-,-,-,-,-,-,B_7,Beginner
+B627,-,-,-,-,-,-,-,-,B_7,Beginner
+B628,-,-,-,-,-,-,-,-,B_7,Beginner
+B629,-,-,-,-,-,-,-,-,B_7,Beginner
+B630,-,-,-,-,-,-,-,-,B_7,Beginner
+B631,-,-,-,-,-,-,-,-,B_7,Beginner
+B632,-,-,-,-,-,-,-,-,B_7,Beginner
+B633,-,-,-,-,-,-,-,-,B_7,Beginner
+B634,-,-,-,-,-,-,-,-,B_7,Beginner
+B635,-,-,-,-,-,-,-,-,B_7,Beginner
+B636,-,-,-,-,-,-,-,-,B_7,Beginner
+B637,-,-,-,-,-,-,-,-,B_7,Beginner
+B638,-,-,-,-,-,-,-,-,B_7,Beginner
+B639,-,-,-,-,-,-,-,-,B_7,Beginner
+B640,-,-,-,-,-,-,-,-,B_7,Beginner
+B641,-,-,-,-,-,-,-,-,B_7,Beginner
+B642,-,-,-,-,-,-,-,-,B_7,Beginner
+B643,-,-,-,-,-,-,-,-,B_7,Beginner
+B644,-,-,-,-,-,-,-,-,B_7,Beginner
+B645,-,-,-,-,-,-,-,-,B_7,Beginner
+B646,-,-,-,-,-,-,-,-,B_7,Beginner
+B647,-,-,-,-,-,-,-,-,B_7,Beginner
+B648,-,-,-,-,-,-,-,-,B_7,Beginner
+B649,-,-,-,-,-,-,-,-,B_7,Beginner
+B650,-,-,-,-,-,-,-,-,B_7,Beginner
+B651,7,-,-,-,-,-,-,7,B_8,Beginner
+B652,8,-,-,-,-,-,-,8,B_8,Beginner
+B653,8,-,-,-,-,-,-,8,B_8,Beginner
+B654,-,-,9,-,-,-,-,9,B_8,Beginner
+B655,9,-,-,-,-,-,-,9,B_8,Beginner
+B656,9,-,-,-,-,-,-,9,B_8,Beginner
+B657,10,-,-,-,-,-,-,10,B_8,Beginner
+B658,8,7,8,-,-,-,-,23,B_8,Beginner
+B659,10,7.5,9,-,-,-,-,26.5,B_8,Beginner
+B660,9,7.5,10,-,-,-,-,26.5,B_8,Beginner
+B661,9,10,9,-,-,-,-,28,B_8,Beginner
+B662,8,7.5,4,6,7,-,-,32.5,B_8,Beginner
+B663,9,8.5,7,9,-,-,-,33.5,B_8,Beginner
+B664,9,8.5,9,8,-,-,-,34.5,B_8,Beginner
+B665,10,8,-,9,9,-,-,36,B_8,Beginner
+B666,7,5,9,8,5,2.73,-,36.73,B_8,Beginner
+B667,8,6.5,7,4,7,5.91,-,38.41,B_8,Beginner
+B668,9,5.5,7,6,7,5.91,-,40.41,B_8,Beginner
+B669,7,8,4,8,7,8.64,-,42.64,B_8,Beginner
+B670,7,7,7,7,9,8.18,-,45.18,B_8,Beginner
+B671,8,8,8,7,8,6.82,-,45.82,B_8,Beginner
+B672,10,9.5,5,5,9,7.73,-,46.23,B_8,Beginner
+B673,9,7,8,-,9,6.82,7.5,47.32,B_8,Beginner
+B674,10,9.5,9,9,10,-,-,47.5,B_8,Beginner
+B675,9,7,8,8,10,5.91,-,47.91,B_8,Beginner
+B676,10,9,6,8,8,7.73,-,48.73,B_8,Beginner
+B677,10,8,9,9,8,7.27,-,51.27,B_8,Beginner
+B678,10,9.5,9,8,8,6.82,-,51.32,B_8,Beginner
+B679,10,9,9,7,10,7.27,-,52.27,B_8,Beginner
+B680,9,9,10,10,9,7.27,-,54.27,B_8,Beginner
+B681,9,10,10,10,8,7.73,-,54.73,B_8,Beginner
+B682,10,9,7,7,7,6.82,8,54.82,B_8,Beginner
+B683,7,10,10,9,10,9.55,-,55.55,B_8,Beginner
+B684,10,9,10,10,9,7.73,-,55.73,B_8,Beginner
+B685,9,9,10,9,10,9.09,-,56.09,B_8,Beginner
+B686,10,8.5,10,10,10,7.73,-,56.23,B_8,Beginner
+B687,10,10,10,10,9,7.73,-,56.73,B_8,Beginner
+B688,10,8.5,9,9,9,9.55,5.5,60.55,B_8,Beginner
+B689,7,9.5,10,9,9,9.55,9.5,63.55,B_8,Beginner
+B690,9,9,10,10,9,7.73,9.5,64.23,B_8,Beginner
+B691,9,10,10,9,10,9.09,9,66.09,B_8,Beginner
+B692,10,9,9,10,10,9.09,9.5,66.59,B_8,Beginner
+B693,10,9.5,10,9,10,8.64,10,67.14,B_8,Beginner
+B694,10,10,10,10,10,9.09,10,69.09,B_8,Beginner
+B695,-,-,-,-,-,-,-,-,B_8,Beginner
+B696,-,-,-,-,-,-,-,-,B_8,Beginner
+B697,-,-,-,-,-,-,-,-,B_8,Beginner
+B698,-,-,-,-,-,-,-,-,B_8,Beginner
+B699,-,-,-,-,-,-,-,-,B_8,Beginner
+B700,-,-,-,-,-,-,-,-,B_8,Beginner
+B701,-,-,-,-,-,-,-,-,B_8,Beginner
+B702,-,-,-,-,-,-,-,-,B_8,Beginner
+B703,-,-,-,-,-,-,-,-,B_8,Beginner
+B704,-,-,-,-,-,-,-,-,B_8,Beginner
+B705,-,-,-,-,-,-,-,-,B_8,Beginner
+B706,-,-,-,-,-,-,-,-,B_8,Beginner
+B707,-,-,-,-,-,-,-,-,B_8,Beginner
+B708,-,-,-,-,-,-,-,-,B_8,Beginner
+B709,-,-,-,-,-,-,-,-,B_8,Beginner
+B710,-,-,-,-,-,-,-,-,B_8,Beginner
+B711,-,-,-,-,-,-,-,-,B_8,Beginner
+B712,-,-,-,-,-,-,-,-,B_8,Beginner
+B713,-,-,-,-,-,-,-,-,B_8,Beginner
+B714,-,-,-,-,-,-,-,-,B_8,Beginner
+B715,-,-,-,-,-,-,-,-,B_8,Beginner
+B716,-,-,-,-,-,-,-,-,B_8,Beginner
+B717,-,-,-,-,-,-,-,-,B_8,Beginner
+B718,-,-,-,-,-,-,-,-,B_8,Beginner
+B719,-,-,-,-,-,-,-,-,B_8,Beginner
+B720,-,-,-,-,-,-,-,-,B_8,Beginner
+B721,-,-,-,-,-,-,-,-,B_8,Beginner
+B722,-,-,-,-,-,-,-,-,B_8,Beginner
+B723,-,-,-,-,-,-,-,-,B_8,Beginner
+B724,-,-,-,-,-,-,-,-,B_8,Beginner
+B725,-,-,-,-,-,-,-,-,B_8,Beginner
+B726,-,-,-,-,-,-,-,-,B_8,Beginner
+B727,-,-,-,-,-,-,-,-,B_8,Beginner
+B728,-,-,-,-,-,-,-,-,B_8,Beginner
+B729,-,-,-,-,-,-,-,-,B_8,Beginner
+B730,-,-,-,-,-,-,-,-,B_8,Beginner
+B731,-,-,-,-,-,-,-,-,B_8,Beginner
+B732,-,-,-,-,-,4.09,-,4.09,B_9,Beginner
+B733,6,-,-,-,-,-,-,6,B_9,Beginner
+B734,7,-,-,-,-,-,-,7,B_9,Beginner
+B735,8,-,-,-,-,-,-,8,B_9,Beginner
+B736,8,3.5,-,-,-,-,-,11.5,B_9,Beginner
+B737,9,4.5,-,-,-,-,-,13.5,B_9,Beginner
+B738,9,6,-,-,-,-,-,15,B_9,Beginner
+B739,10,6,-,-,-,-,-,16,B_9,Beginner
+B740,10,6,-,-,-,-,-,16,B_9,Beginner
+B741,2,2.5,2,5,4,1.82,-,17.32,B_9,Beginner
+B742,7,6,8,8,-,-,-,29,B_9,Beginner
+B743,9,4.5,7,8,8,-,-,36.5,B_9,Beginner
+B744,9,8.5,9,10,-,-,-,36.5,B_9,Beginner
+B745,6,6.5,7,9,7,5.91,-,41.41,B_9,Beginner
+B746,9,8.5,8,7,10,-,-,42.5,B_9,Beginner
+B747,8,6.5,7,8,6,7.27,-,42.77,B_9,Beginner
+B748,7,6.5,9,8,8,6.36,-,44.86,B_9,Beginner
+B749,9,9,10,8,9,-,-,45,B_9,Beginner
+B750,10,10,10,9,10,-,-,49,B_9,Beginner
+B751,7,7,8,8,9,5,5.5,49.5,B_9,Beginner
+B752,10,10,10,10,10,-,-,50,B_9,Beginner
+B753,6,9,8,9,9,9.55,-,50.55,B_9,Beginner
+B754,7,5.5,8,8,8,8.18,6,50.68,B_9,Beginner
+B755,10,9,9,10,8,5.91,-,51.91,B_9,Beginner
+B756,10,8.5,10,8,10,7.27,-,53.77,B_9,Beginner
+B757,10,9.5,10,9,8,7.73,-,54.23,B_9,Beginner
+B758,9,7.5,10,10,9,9.09,-,54.59,B_9,Beginner
+B759,10,10,10,7,10,8.18,-,55.18,B_9,Beginner
+B760,9,8.5,9,10,10,9.09,-,55.59,B_9,Beginner
+B761,10,9,9,9,10,9.55,-,56.55,B_9,Beginner
+B762,10,9,10,9,10,8.64,-,56.64,B_9,Beginner
+B763,10,4.5,10,9,10,7.73,9,60.23,B_9,Beginner
+B764,10,9,10,9,10,9.55,10,67.55,B_9,Beginner
+B765,10,10,10,10,9,8.64,10,67.64,B_9,Beginner
+B766,-,-,-,-,-,-,-,-,B_9,Beginner
+B767,-,-,-,-,-,-,-,-,B_9,Beginner
+B768,-,-,-,-,-,-,-,-,B_9,Beginner
+B769,-,-,-,-,-,-,-,-,B_9,Beginner
+B770,-,-,-,-,-,-,-,-,B_9,Beginner
+B771,-,-,-,-,-,-,-,-,B_9,Beginner
+B772,-,-,-,-,-,-,-,-,B_9,Beginner
+B773,-,-,-,-,-,-,-,-,B_9,Beginner
+B774,-,-,-,-,-,-,-,-,B_9,Beginner
+B775,-,-,-,-,-,-,-,-,B_9,Beginner
+B776,-,-,-,-,-,-,-,-,B_9,Beginner
+B777,-,-,-,-,-,-,-,-,B_9,Beginner
+B778,-,-,-,-,-,-,-,-,B_9,Beginner
+B779,-,-,-,-,-,-,-,-,B_9,Beginner
+B780,-,-,-,-,-,-,-,-,B_9,Beginner
+B781,-,-,-,-,-,-,-,-,B_9,Beginner
+B782,-,-,-,-,-,-,-,-,B_9,Beginner
+B783,-,-,-,-,-,-,-,-,B_9,Beginner
+B784,-,-,-,-,-,-,-,-,B_9,Beginner
+B785,-,-,-,-,-,-,-,-,B_9,Beginner
+B786,-,-,-,-,-,-,-,-,B_9,Beginner
+B787,-,-,-,-,-,-,-,-,B_9,Beginner
+B788,-,-,-,-,-,-,-,-,B_9,Beginner
+B789,-,-,-,-,-,-,-,-,B_9,Beginner
+B790,-,-,-,-,-,-,-,-,B_9,Beginner
+B791,-,-,-,-,-,-,-,-,B_9,Beginner
+B792,-,-,-,-,-,-,-,-,B_9,Beginner
+B793,-,-,-,-,-,-,-,-,B_9,Beginner
+B794,-,-,-,-,-,-,-,-,B_9,Beginner
+B795,-,-,-,-,-,-,-,-,B_9,Beginner
+B796,-,-,-,-,-,-,-,-,B_9,Beginner
+B797,-,-,-,-,-,-,-,-,B_9,Beginner
+B798,-,-,-,-,-,-,-,-,B_9,Beginner
+B799,-,-,-,-,-,-,-,-,B_9,Beginner
+B800,-,-,-,-,-,-,-,-,B_9,Beginner
+B801,-,-,-,-,-,-,-,-,B_9,Beginner
+B802,-,-,-,-,-,-,-,-,B_9,Beginner
+B803,-,-,-,-,-,-,-,-,B_9,Beginner
+B804,-,-,-,-,-,-,-,-,B_9,Beginner
+B805,-,-,-,-,-,-,-,-,B_9,Beginner
+B806,-,-,-,-,-,-,-,-,B_9,Beginner
+B807,-,-,-,-,-,-,-,-,B_9,Beginner
+B808,-,-,-,-,-,-,-,-,B_9,Beginner
+B809,-,-,-,-,-,-,-,-,B_9,Beginner
+B810,-,-,-,-,-,-,-,-,B_9,Beginner
+B811,-,-,-,-,-,-,-,-,B_9,Beginner
+B812,-,-,-,-,-,-,-,-,B_9,Beginner
