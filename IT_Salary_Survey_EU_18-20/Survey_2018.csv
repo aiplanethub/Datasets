@@ -1,0 +1,766 @@
+Timestamp,Age,Gender,City,Position,Years of experience,Your level,Current Salary,Salary one year ago,Salary two years ago,Are you getting any Stock Options?,Main language at work,Company size,Company type
+14/12/2018 12:41:33,43,M,München,QA Ingenieur,11,Senior,77000,76200,68000,No,Deutsch,100-1000,Product
+14/12/2018 12:42:09,33,F,München,Senior PHP Magento developer ,8,Senior,65000,55000,55000,No,Deutsch,50-100,Product
+14/12/2018 12:47:36,32,M,München,Software Engineer,10,Senior,88000,73000,54000,No,Deutsch,1000+,Product
+14/12/2018 12:50:15,25,M,München,Senior Frontend Developer,6,Senior,78000,55000,45000,Yes,English,1000+,Product
+14/12/2018 12:50:31,39,M,München,UX Designer,10,Senior,69000,60000,52000,No,English,100-1000,Ecom retailer
+14/12/2018 12:52:24,37,M,München,Project Manager,8,Senior,98000,96000,96000,Yes,Deutsch,1000+,Insurance
+14/12/2018 12:53:47,,M,Berlin,Senior Android Developer,5,Senior,65000,50000,50000,Yes,English,1000+,Product
+14/12/2018 12:53:47,36,F,München,Data science team lead,8,Senior,109000,105000,97000,Yes,English,1000+,
+14/12/2018 12:54:20,32,M,Berlin,Test Automation Engineer,3,Senior,65000,58000,50000,Yes,English,100-1000,Startup
+14/12/2018 12:55:44,30,M,München,Frontend Developer,8,Senior,60000,48000,42000,No,Deutsch,100-1000,Agency
+14/12/2018 12:56:28,40,M,Berlin,Software Engineer,18,Senior,70000,57500,54000,No,English,100-1000,Product
+14/12/2018 12:56:31,33,M,Karlsruhe,Senior Full-stack .Net Developer,8,Senior,70000,66000,48000,No,English,100-1000,Product
+14/12/2018 12:59:58,31,F,Berlin,QA Lead,,Senior,55000,,,No,English,10-50,Startup
+14/12/2018 13:00:13,29,M,Berlin,Front-end engineer,6,Middle,55000,55000,34000,No,English,100-1000,Product
+14/12/2018 13:03:34,32,M,München,Software Developer,11,Middle,94500,91300,86300,No,Russian,1000+,Product
+14/12/2018 13:06:18,25,F,München,QA Test Engineer,3,Junior,46000,44000,44000,No,English,100-1000,Startup
+14/12/2018 13:07:09,33,M,München,QA Manager,11,Senior,68000,65000,63000,No,Deutsch,1000+,Product
+14/12/2018 13:10:26,24,M,Hamburg,Software Engineer,4,Middle,60000,47000,,No,English,1000+,Product
+14/12/2018 13:16:09,44,M,Berlin,Frontend Developer,17,Senior,62500,62500,54000,No,Deutsch,10-50,Agency
+14/12/2018 13:20:36,37,M,Berlin,CTO,19,Senior,80000,70000,,Yes,English,50-100,Startup
+14/12/2018 13:25:17,29,M,München,Cloud Consulting,10,Senior,132250,92600,92600,Yes,English,1000+,Big Tech
+14/12/2018 13:25:49,34,F,Berlin,QA,10,Senior,53000,53000,48000,Yes,English,100-1000,Startup
+14/12/2018 13:25:58,28,M,München,Frontend Engineer,5,Middle,52000,40000,40000,Yes,English,100-1000,Product
+14/12/2018 13:28:36,35,M,Berlin,Head of IT,10,Senior,95000,95000,90000,No,English,10-50,Consultancy
+14/12/2018 13:29:27,32,M,München,Senior Software Engineer,4,Senior,72000,60000,30000,No,English,1000+,Agency
+14/12/2018 13:29:56,40,F,München,Operations manager,15,Middle,55000,55000,55000,No,English,100-1000,Product
+14/12/2018 13:32:27,39,M,München,Frontend Developer,15,Senior,77000,74000,,No,English,100-1000,Product
+14/12/2018 13:32:43,38,M,München,Product Manager,12,Senior,72000,72000,68000,No,English,100-1000,Product
+14/12/2018 13:33:51,28,M,München,Software engineer ( React/React-native ),8,Senior,80000,,,No,English,50-100,Product
+14/12/2018 13:33:54,31,M,Berlin,iOS Developer ,5,Middle,66000,,,No,English,1000+,Product
+14/12/2018 13:39:08,39,M,Berlin,Senior DevOps,10,Middle,75800,66000,,No,Deutsch,1000+,Corporation
+14/12/2018 13:40:40,35,F,München,Software Engineer,12,Senior,84000,84000,84000,No,English,100-1000,Startup
+14/12/2018 13:43:36,32,M,München,C# Developer,10,Senior,60000,60000,60000,No,English,50-100,Product
+14/12/2018 13:43:50,27,M,Augsburg ,ERP/BI Specialist,4,Middle,57000,52000,38000,No,Deutsch,100-1000,Product
+14/12/2018 13:43:50,,M,München,Full stack developer,2,Junior,58000,50000,48000,Yes,English,100-1000,Product
+14/12/2018 13:44:05,31,M,München,Systems Administrator,1,Junior,36000,,,No,English,50-100,Startup
+14/12/2018 13:44:09,31,M,München,Senior Software Developer,10,Senior,70000,60000,,No,English,100-1000,Product
+14/12/2018 13:44:09,32,M,München,C++ developer,10,Senior,72000,56000,55000,No,English,100-1000,Product
+14/12/2018 13:44:38,35,M,München,Project Manager,5,Middle,75000,70000,,,English,100-1000,Product
+14/12/2018 13:44:52,33,M,München,PM,9,Middle,90000,100000,85000,No,Deutsch,1000+,Product
+14/12/2018 13:44:54,32,M,München,Android Developer,7,Senior,69000,,,No,English,100-1000,Product
+14/12/2018 13:44:55,41,M,München,Software Architect,20,Senior,113000,80000,72000,No,Deutsch,100-1000,Startup
+14/12/2018 13:45:42,,M,München,Senior Frontend Developer,10,Senior,65000,,,No,English,100-1000,Product
+14/12/2018 13:45:55,30,M,München,Embedded Software Engineer,7,Middle,75000,72000,67000,No,English,50-100,Product
+14/12/2018 13:46:20,24,F,München,iOS developer,3,Middle,57000,45000,,No,Russian,100-1000,Product
+14/12/2018 13:46:29,43,M,Berlin,Data Engineer,10,Senior,84000,78000,76000,No,English,50-100,Product
+14/12/2018 13:46:46,28,M,München,iOS Developer,6,Senior,70000,45000,,No,English,1000+,Product
+14/12/2018 13:46:50,29,M,Bremen,Software Engineer,1,Junior,55000,,,No,Deutsch,10-50,Product
+14/12/2018 13:47:09,32,M,München,PHP Developer,6,Senior,60000,57000,,Yes,English,100-1000,Product
+14/12/2018 13:47:36,31,M,Frankfurt,Ruby developer,11,Senior,65000,61000,55000,No,English,100-1000,Product
+14/12/2018 13:48:17,33,M,Berlin,Frontend Developer,10,Senior,70000,,,No,English,10-50,Startup
+14/12/2018 13:50:54,29,M,,Embedded engineer,7,Middle,50000,50000,50000,,English,up to 10,Product
+14/12/2018 13:52:38,28,M,München,Java Fullstack Developer,7.5,Middle,65000,65000,60000,No,Deutsch,50-100,Agency
+14/12/2018 13:54:01,32,M,München,Senior Software Developer,10,Senior,78000,65000,60000,No,English,10-50,Startup
+14/12/2018 13:54:15,26,F,Regensburg,Mobile App Developer,1,Junior,60000,,,,Deutsch,1000+,Product
+14/12/2018 13:54:24,34,M,Hamburg,Scala Developer,10,Senior,71000,68000,68000,Yes,English,50-100,Startup
+14/12/2018 13:54:51,29,M,München,DevOps,9,Senior,75000,58000,55000,No,Deutsch,100-1000,Product
+14/12/2018 13:55:13,27,F,Frankfurt,Consultant,1,Junior,49000,45000,10001,No,English,1000+,Consultancy
+14/12/2018 13:55:42,28,M,Hamburg,Ruby developer,4,Senior,65000,,,No,English,100-1000,Product
+14/12/2018 13:56:04,34,M,München,BA/PM,10,Senior,68000,,,Yes,English,10-50,Product
+14/12/2018 13:58:27,35,M,München,DevOps Engineer,10,Senior,56000,,,No,English,50-100,Product
+14/12/2018 14:00:15,32,F,Berlin,QA,3,Junior,30000,,,No,English,50-100,Product
+14/12/2018 14:00:22,32,M,München,C++ Software Enginеer,11,Senior,72000,72000,,No,English,up to 10,Product
+14/12/2018 14:00:57,,F,Frankfurt,Software Developer,4,Middle,65000,60000,45000,Yes,English,100-1000,Product
+14/12/2018 14:01:59,29,M,Frankfurt,iOS developer,5,Middle,45000,,,No,English,up to 10,Agency
+14/12/2018 14:03:15,36,F,München,Automation QA,4,Middle,55000,,,No,English,1000+,Product
+14/12/2018 14:03:29,29,M,Lisbon,iOS developer,6,Middle,40000,,,Yes,English,1000+,Product
+14/12/2018 14:04:31,25,M,Frankfurt,Frontend Developer,5,Middle,66000,55000,42000,No,English,100-1000,Agency
+14/12/2018 14:04:45,,M,Frankfurt,Software Engineer,7,Senior,66000,66000,66000,No,English,100-1000,Product
+14/12/2018 14:04:58,,F,Hamburg,Java Developer,5,Middle,54000,56000,56000,No,English,100-1000,Product
+14/12/2018 14:05:28,25,M,München,Backend Developer,3,Senior,60000,60000,,No,Russian,10-50,Startup
+14/12/2018 14:08:20,32,M,Berlin,Frontend developer,6,Middle,50000,45000,42000,Yes,English,10-50,Product
+14/12/2018 14:09:38,29,M,Berlin,SDET,7,Senior,60000,60000,,No,English,1000+,Product
+14/12/2018 14:10:00,,M,Leipzig,iOS Developer,3,Senior,48000,,,No,English,100-1000,Agency
+14/12/2018 14:11:36,26,M,München,Android Developer,4,Middle,66000,22400,,No,English,1000+,Agency
+14/12/2018 14:15:19,33,M,Frankfurt,Technical Lead,10,Senior,95000,84000,82000,No,Deutsch,1000+,Product
+14/12/2018 14:15:23,28,M,München,FrontEnd dev,8,Middle,61000,61000,,No,English,100-1000,Product
+14/12/2018 14:19:00,31,M,Berlin,Technical product manager,1,Middle,65000,65000,60000,No,English,100-1000,Startup
+14/12/2018 14:20:07,29,M,Berlin,Javascript software developer,5,Middle,55000,46000,,No,English,10-50,Startup
+14/12/2018 14:21:25,29,M,München,Java Developer,8,Senior,72000,,,No,Russian,100-1000,Product
+14/12/2018 14:22:39,33,M,Berlin,,,Middle,90000,60000,60000,Yes,English,1000+,Product
+14/12/2018 14:26:57,31,M,Berlin,DevOps,12,Senior,60000,49050,42500,No,English,50-100,Startup
+14/12/2018 14:27:10,,M,München,Java Developer,5,Middle,60000,,,No,English,100-1000,Product
+14/12/2018 14:28:17,27,M,Berlin,DevOps Engineer,10,Senior,87000,75000,65000,No,English,100-1000,Product
+14/12/2018 14:29:00,30,M,Berlin,iOS Developer,6,Senior,70000,55000,50000,No,English,100-1000,Product
+14/12/2018 14:29:12,,F,München,Graphic Designer,8,Middle,30000,29000,27000,No,English,up to 10,Startup
+14/12/2018 14:29:35,34,F,Berlin,Manager,5,Middle,55000,50000,,No,English,100-1000,Startup
+14/12/2018 14:29:48,24,,München,Frontend Developer,3,Middle,57000,55000,10001,No,English,1000+,Product
+14/12/2018 14:31:08,44,M,München,Project Manager,14,Senior,73000,70000,65000,No,Russian,50-100,
+14/12/2018 14:32:30,37,M,Berlin,Senior/Lead Developer,15,Senior,85000,75000,70000,Yes,English,up to 10,Startup
+14/12/2018 14:32:47,,M,Stuttgart,Senior QA,4,Senior,65000,60000,,No,English,1000+,Agency
+14/12/2018 14:32:55,,M,Stuttgart,Senior QA,4,Senior,65000,60000,,No,English,1000+,Agency
+14/12/2018 14:33:05,33,M,Berlin,Technical Product Manager,,Senior,58000,58000,55000,No,English,100-1000,Startup
+14/12/2018 14:33:16,36,M,Berlin,Mobile Lead,14,Senior,82000,72000,72000,No,English,100-1000,Product
+14/12/2018 14:33:48,34,M,Berlin,Software Engineer,10,Senior,67000,65000,,Yes,English,100-1000,Product
+14/12/2018 14:35:19,31,M,Berlin,Frontend developer,12,Senior,65000,60000,60000,No,English,100-1000,Product
+14/12/2018 14:35:19,25,M,München,Software Developer,3,Middle,62000,20000,16000,No,English,100-1000,Outsource
+14/12/2018 14:35:22,28,M,Berlin,Frontend Engineer,6,Senior,62000,58000,55000,No,English,50-100,Startup
+14/12/2018 14:36:04,38,M,Berlin,Front-end developer,19,Senior,83000,57000,57000,No,English,100-1000,Product
+14/12/2018 14:36:57,32,F,Berlin,Data Engineer,10,Senior,75000,68000,,No,English,1000+,Product
+14/12/2018 14:37:00,22,M,Berlin,Data scientist,2,Middle,50000,,,No,English,50-100,Startup
+14/12/2018 14:37:59,37,M,München,Head of Product ,8,Senior,100000,100000,85000,No,English,50-100,Agency
+14/12/2018 14:38:13,32,M,Berlin,Research Engineer,10,Middle,75000,,,No,English,1000+,Product
+14/12/2018 14:39:31,40,M,Berlin,PHP Backend Developer,18,Senior,69000,65000,65000,No,English,50-100,Agency
+14/12/2018 14:39:33,24,M,Berlin,Java Developer,3,Middle,50000,45000,40000,No,English,100-1000,Product
+14/12/2018 14:40:36,36,M,Berlin,SW Developer,10,Middle,73000,58000,55000,No,English,50-100,Startup
+14/12/2018 14:42:07,35,M,Berlin,Senior Engineer (PHP),15,Senior,120000,85000,70000,Yes,English,1000+,Product
+14/12/2018 14:43:15,28,M,Frankfurt,webdev,5,Senior,50000,41000,,No,English,10-50,Product
+14/12/2018 14:43:19,32,M,München,Web Developer ,3,Middle,58000,50000,43000,Yes,Deutsch,1000+,
+14/12/2018 14:45:08,33,M,,Java Developer,11,Senior,65000,62000,58000,No,Deutsch,50-100,Product
+14/12/2018 14:46:20,36,F,München,QA ,3,Middle,30000,30000,12000,No,English,10-50,Product
+14/12/2018 14:46:28,32,M,Berlin,Machine Learning Engineer,,Senior,80000,70000,63000,Yes,English,up to 10,Startup
+14/12/2018 14:46:54,32,M,Berlin,Frontend Developer,10,Senior,70000,,,No,English,50-100,Startup
+14/12/2018 14:48:13,32,M,München,Data Scientist,4,Senior,65000,60000,,No,English,50-100,Product
+14/12/2018 14:48:46,31,M,Berlin,Software Architect,12,Senior,78600,75000,69000,No,English,100-1000,Product
+14/12/2018 14:51:20,34,M,Berlin,Principal Software Engineer,13,Senior,70000,84000,75000,No,English,10-50,Product
+14/12/2018 14:54:00,,M,Amsterdam,FrontEnd Developer,5,Senior,60000,,,,English,1000+,Product
+14/12/2018 14:56:28,32,M,Berlin,Senior Javascript Engineer,6,Senior,78000,65000,65000,No,English,100-1000,Startup
+14/12/2018 14:57:07,34,M,Berlin,Engineering Manager,17,Senior,70000,70000,60000,Yes,English,50-100,Startup
+14/12/2018 14:58:17,32,M,Luxembourg,SDE,8,Middle,89000,90000,65000,Yes,English,1000+,Product
+14/12/2018 15:00:18,27,F,München,Python dev,0.5,Junior,60000,,,Yes,English,50-100,Product
+14/12/2018 15:01:21,31,F,München,QA Engineer ,5,Middle,60000,,,No,English,50-100,Product
+14/12/2018 15:02:04,32,M,Berlin,Android developer ,9,Senior,72000,68000,68000,No,English,1000+,Product
+14/12/2018 15:02:23,,M,München,Web Designer,3,Middle,43000,36000,32000,No,Deutsch,50-100,Product
+14/12/2018 15:04:23,27,M,Berlin,Senior Software Engineer ,7,Senior,72000,65000,50000,No,English,1000+,Product
+14/12/2018 15:05:01,30,M,Berlin,Senior Backend Developer,7,Senior,65000,62000,,No,English,1000+,Startup
+14/12/2018 15:05:08,34,M,Berlin,Agile coach,5,Senior,85000,70000,65000,No,English,1000+,Agency
+14/12/2018 15:08:12,30,M,Berlin,QA,8,Senior,55000,50000,,No,English,50-100,Product
+14/12/2018 15:08:33,24,M,Berlin,MTS,4,Middle,65000,,,Yes,English,100-1000,Startup
+14/12/2018 15:09:01,28,F,Berlin,Frontend Developer,4,Middle,56000,51000,45000,No,English,1000+,Product
+14/12/2018 15:11:21,39,M,Bern, .Net Developer,10,Senior,107000,56000,54000,No,Deutsch,100-1000,Product
+14/12/2018 15:11:22,29,M,Berlin,Python developer,3,Middle,60000,,,No,English,100-1000,Product
+14/12/2018 15:12:01,34,M,München,Android Developer,7,Senior,70000,,,No,English,100-1000,Startup
+14/12/2018 15:12:19,30,M,Berlin,Embedded Developer,6,Middle,60000,58000,,No,English,100-1000,Product
+14/12/2018 15:14:28,35,M,Berlin,.NET developer,15,Senior,62000,54000,54000,No,English,100-1000,Product
+14/12/2018 15:18:07,37,M,Berlin,Seniour software developer,14,Senior,78000,68000,65000,Yes,English,10-50,Startup
+14/12/2018 15:18:58,25,M,Frankfurt,Junior IT Manager,,Junior,60000,55000,,Yes,English,1000+,Industry
+14/12/2018 15:20:33,37,M,Berlin,Full stack developer ,15,Senior,54000,54000,,No,English,10-50,Product
+14/12/2018 15:21:25,27,F,Berlin,IT Project Manager,4,Middle,46000,46000,40000,No,Deutsch,100-1000,E-Commerce firm
+14/12/2018 15:21:26,30,M,Bonn,Business Analyst,7,Middle,64000,60000,54000,No,English,1000+,Product
+14/12/2018 15:22:45,33,M,Berlin,fullstack developer,10,Senior,65000,55000,55000,No,English,10-50,Product
+14/12/2018 15:23:40,32,M,Berlin,Frontent Developer,5,Middle,58000,23000,18000,No,English,10-50,Startup
+14/12/2018 15:24:22,,M,München,Senior Java Developer,13,Senior,75000,70000,65000,No,English,1000+,Product
+14/12/2018 15:27:36,30,M,Frankfurt,Software Developer,8,Senior,95000,80000,75000,No,English,100-1000,Product
+14/12/2018 15:30:21,27,F,Berlin,Android Developer,5,Middle,60000,,,No,English,100-1000,Product
+14/12/2018 15:30:27,28,M,München,Software Developer,6,Middle,53000,,,No,English,100-1000,Product
+14/12/2018 15:31:13,30,M,Berlin,Software Engineer,3,Middle,69000,,,No,English,1000+,Product
+14/12/2018 15:31:33,39,M,Berlin,Scala developer,20,Senior,84000,82000,54000,No,English,1000+,Product
+14/12/2018 15:32:58,26,M,Berlin,UX/UI designer,5,Senior,52000,,,Yes,English,10-50,Startup
+14/12/2018 15:34:50,,M,München,Senior Java,12,Senior,85000,75000,75000,Yes,English,10-50,Product
+14/12/2018 15:36:26,30,M,Berlin,SRE,7,Senior,75000,,,Yes,English,50-100,
+14/12/2018 15:44:27,,M,München,developer,6,Senior,63000,60000,,No,English,100-1000,Product
+14/12/2018 15:44:57,39,M,Berlin,DBA,17,Senior,87000,80000,65000,Yes,English,1000+,Product
+14/12/2018 15:47:44,35,F,Berlin,Software Engineer,14,Senior,65000,,,Yes,English,10-50,Startup
+14/12/2018 15:50:50,30,F,Berlin,Computational Linguist,3,Middle,50400,43200,38400,No,English,10-50,Startup
+14/12/2018 15:54:33,26,M,Berlin,Software Engineer,6,Senior,65000,52000,,No,English,100-1000,Product
+14/12/2018 15:55:41,,M,Hamburg,SAP Basis Administrator,19,Senior,85000,80000,75000,No,Deutsch,1000+,Product
+14/12/2018 15:56:16,27,M,Berlin,Data Scientist,2.5,Senior,66000,13000,13000,No,English,100-1000,Startup
+14/12/2018 15:56:57,43,F,München,Programmierer/Consultant,0.5,Junior,32000,,,No,Deutsch,10-50,Product
+14/12/2018 15:58:16,42,M,München,Java Developer,15,Middle,42000,42000,45000,No,Deutsch,10-50,Product
+14/12/2018 16:11:51,31,M,Berlin,Full stack engineer,11,Senior,65000,55000,36000,No,English,100-1000,Product
+14/12/2018 16:13:11,34,M,Berlin,Software engineer,8,Middle,74000,72000,54000,No,English,1000+,Startup
+14/12/2018 16:14:28,,M,Berlin,Java Developer,10,Senior,75000,,,No,English,100-1000,Startup
+14/12/2018 16:15:58,30,M,München,Software Engineer,8,Senior,72500,65000,58000,No,English,100-1000,Product
+14/12/2018 16:18:51,37,M,Berlin,Database Administrator,7,Senior,53000,47000,44000,No,Deutsch,100-1000,Product
+14/12/2018 16:22:31,,M,Frankfurt,Senior Software Engineer,13,Senior,102000,92000,84000,No,English,100-1000,Product
+14/12/2018 16:23:37,27,M,Hamburg,Frontend Developer,11,Senior,60000,58000,50000,No,English,100-1000,Product
+14/12/2018 16:28:22,30,M,Berlin,Software Engineer JavaSctipt,10,Senior,75000,56000,50000,No,English,1000+,Product
+14/12/2018 16:34:10,33,M,Berlin,PM,15,Senior,85000,75000,70000,Yes,English,1000+,
+14/12/2018 16:36:10,38,M,Köln,Java Developer,12,Senior,60000,,,No,Deutsch,10-50,Consulting
+14/12/2018 16:37:06,35,M,Berlin,Developer,9,Senior,60000,60000,55000,Yes,English,up to 10,Startup
+14/12/2018 16:39:31,36,M,Berlin,Head of Engineering,15,Senior,85000,75000,72000,No,Deutsch,10-50,Product
+14/12/2018 16:59:14,25,M,Berlin,Android Developer,5,Middle,50000,,,Yes,English,10-50,Startup
+14/12/2018 16:59:45,32,M,Berlin,product manager,5,,60000,57000,57000,No,English,100-1000,Product
+14/12/2018 17:00:26,35,M,Köln,Angular,5,Middle,35000,35000,35000,No,English,1000+,Product
+14/12/2018 17:01:05,29,M,München,Senior Android Developer,8,Senior,75000,58000,54000,No,English,50-100,Agency
+14/12/2018 17:06:24,30,F,Berlin,Full Stack Developer,4,Middle,58000,45000,38000,No,English,10-50,Product
+14/12/2018 17:09:17,33,M,Berlin,Software Developer,12,Senior,75000,65000,,No,English,1000+,Internal development for a non-IT company
+14/12/2018 17:09:32,30,M,Baden-Württemberg ,Mobile developer,8,Senior,70000,55000,55000,Yes,English,10-50,Startup
+14/12/2018 17:11:47,30,M,Berlin,PHP Developer,11,Senior,65000,65000,60000,No,English,50-100,Startup
+14/12/2018 17:13:28,31,F,Berlin,Software Engineer,8,Senior,55800,52800,48000,No,Deutsch,1000+,Product
+14/12/2018 17:28:55,26,M,Berlin,Automation QA,4,Middle,55000,55000,44000,No,English,1000+,Product
+14/12/2018 17:36:48,27,M,Berlin,Frontend Developer,5,Middle,55000,,,No,English,1000+,Product
+14/12/2018 17:45:50,34,M,Berlin,Android Developer,7,Senior,70000,56000,48000,No,Deutsch,100-1000,Product
+14/12/2018 17:47:16,35,M,Berlin,PHP Developer,12,Senior,63000,63000,50000,No,English,100-1000,Product
+14/12/2018 17:47:38,29,M,Berlin,Data scientist,8,Senior,115000,85000,65000,Yes,English,1000+,Product
+14/12/2018 17:52:18,28,M,München,Software Engineer (Android),2,Middle,52000,23000,,No,Deutsch,100-1000,Agency
+14/12/2018 17:54:53,39,M,Frankfurt,SAP Consultant,13,Senior,176000,110000,100000,No,English,1000+,Product
+14/12/2018 17:55:01,35,M,München,C++ developer,14,Senior,70000,58000,56000,No,English,up to 10,Startup
+14/12/2018 18:09:11,31,F,Frankonia,QA Engineer,7,Senior,44000,44000,,No,English,100-1000,Product
+14/12/2018 18:09:27,26,M,Berlin,Computer Vision Engineer,2.5,Middle,50000,40000,,Yes,English,up to 10,Startup
+14/12/2018 18:12:52,26,M,München,Java Developer,4,Middle,58000,48000,48000,No,English,100-1000,Agency
+14/12/2018 18:16:05,,M,Berlin,DevOps,9,Middle,60000,50000,50000,No,English,10-50,Startup
+14/12/2018 18:19:11,42,M,Stuttgart ,Digital Project Manager,3,Senior,60000,50000,41000,No,Deutsch,1000+,Personaldienstleister
+14/12/2018 18:19:43,27,M,Berlin,Backend developer,3,Senior,64000,58000,50000,No,English,100-1000,Startup
+14/12/2018 18:19:59,38,M,Berlin,PM,5,Senior,80000,80000,75000,Yes,English,10-50,Product
+14/12/2018 18:21:16,24,M,München,Machine Learning Engineet,2,Middle,58000,24480,24480,No,English,10-50,Startup
+14/12/2018 18:22:41,32,M,Berlin,Machine Learning Engineer,8,Senior,95000,88000,80000,Yes,English,50-100,Product
+14/12/2018 18:23:04,28,F,Berlin,Frontend developer,6,Middle,50000,,,No,English,100-1000,Startup
+14/12/2018 18:23:11,31,M,München,Lead Software Engineer,13,Senior,90000,75000,,No,English,100-1000,Product
+14/12/2018 18:30:31,31,M,Stuttgart,Head of Development,12,Senior,75000,69000,60000,No,English,100-1000,Product
+14/12/2018 18:44:00,31,M,Mannheim ,.net,4,Senior,46000,,,No,Deutsch,50-100,Startup
+14/12/2018 18:47:44,30,M,Köln,Data scientist,5,Middle,80000,78000,72000,No,English,1000+,Product
+14/12/2018 18:48:00,36,M,München,Data Scientist,5,Senior,92000,77000,,No,English,50-100,Agency
+14/12/2018 18:51:51,24,M,München,IT Consultant,4,Middle,60000,55000,20000,No,English,100-1000,Agency
+14/12/2018 18:59:10,33,M,Karlsruhe,Embedded SW Developer,13,Senior,90000,90000,85000,No,Deutsch,up to 10,
+14/12/2018 19:01:15,34,F,München,C++ Developer ,6,Middle,63000,63000,55000,No,Deutsch,10-50,Product
+14/12/2018 19:02:11,29,M,München,System Engineer,8,Senior,75000,65000,60000,Yes,English,50-100,Product
+14/12/2018 19:03:58,,F,Berlin,Marketing Manager,,Senior,55000,45000,,Yes,English,100-1000,Startup
+14/12/2018 19:04:15,22,M,München,Software developer,1.5,Junior,70000,,,Yes,English,1000+,Product
+14/12/2018 19:05:11,42,M,Stuttgart,Erlang Developer,20,Senior,74000,,,No,English,50-100,Startup
+14/12/2018 19:07:54,29,M,Berlin,backend developer,5,Middle,65000,57600,50000,Yes,English,50-100,Product
+14/12/2018 19:08:18,29,M,Stuttgart,Computer Vision Engineer,6,Senior,125000,115000,90000,Yes,English,1000+,Product
+14/12/2018 19:12:42,35,M,Berlin,Senior Software Engineer,10,Senior,68000,65000,60000,No,English,100-1000,Product
+14/12/2018 19:13:13,36,M,Berlin,Engineer,13,Senior,80000,70000,66000,Yes,English,100-1000,Startup
+14/12/2018 19:28:23,29,M,München,IT admin,7,Senior,40000,,,No,Deutsch,50-100,Product
+14/12/2018 19:38:07,28,M,Stuttgart ,C++ Developer ,5,Middle,60000,60000,52000,No,English,100-1000,Agency
+14/12/2018 19:38:08,32,M,Berlin,Senior Ruby Developer,13,Senior,65000,58000,51000,No,English,10-50,Startup
+14/12/2018 19:43:14,38,M,Berlin,Senior Backend Engineer,15,Senior,92000,70000,60600,No,English,1000+,Product
+14/12/2018 19:52:50,31,M,Berlin,Senior software engineer,8,Senior,75000,55000,45000,Yes,English,100-1000,Startup
+14/12/2018 19:54:14,,F,Berlin,QA,5,Senior,70000,70000,70000,Yes,English,1000+,ipo
+14/12/2018 19:54:47,38,F,München,Java Developer,16,Middle,58000,56000,54000,No,Deutsch,100-1000,Product
+14/12/2018 20:13:28,30,M,Berlin,Senior Data Scientist,6,Senior,76000,,,No,English,1000+,e-commerce
+14/12/2018 20:30:03,,M,Berlin,Senior Software Engineer,9,Senior,75000,73000,65000,No,English,100-1000,Product
+14/12/2018 20:35:49,27,M,München,Fullstack JS,6,Senior,65000,,,No,English,10-50,Startup
+14/12/2018 20:41:56,27,M,München,Senior Software Engineer,6,Senior,75000,71000,68000,No,English,1000+,Product
+14/12/2018 20:53:08,36,M,Berlin,Java developer,12,Senior,80000,80000,80000,No,English,1000+,Product
+14/12/2018 21:02:32,32,M,München,DevOps Engineer,9,Senior,80000,70000,,No,English,1000+,Outsource
+14/12/2018 21:12:47,36,M,Berlin,Principal Engineer ,10,,83000,72000,69000,Yes,English,1000+,Product
+14/12/2018 21:16:32,,M,München,PHP Dev,11,Senior,80000,65000,58000,No,Deutsch,1000+,Product
+14/12/2018 21:19:11,32,M,Berlin,Big Data Engineer,5,Senior,87000,,60000,No,English,10-50,Startup
+14/12/2018 21:19:23,,M,München,Senior Software Engineer,9,Senior,80000,66000,65000,No,English,50-100,Product
+14/12/2018 21:21:01,26,M,München,Java Developer,3,Middle,58000,,,No,Russian,50-100,Product
+14/12/2018 21:51:41,39,M,München,Software Engineer,15,Senior,68000,68000,64000,No,English,100-1000,Startup
+14/12/2018 22:07:16,25,M,Berlin,C++ Developer,3,Middle,48500,46000,,No,English,10-50,Product
+14/12/2018 22:08:18,,M,München,,,Senior,72000,65000,15000,Yes,English,10-50,Product
+14/12/2018 22:11:43,31,M,Berlin,Java Developer ,0,Junior,49000,,,No,English,1000+,Product
+14/12/2018 22:22:32,52,M,,Sysadmin,7,Middle,34000,34000,34000,No,Deutsch,up to 10,
+14/12/2018 22:23:19,26,M,München,Low level software developer,5,Middle,68000,,,No,English,100-1000,Product
+14/12/2018 22:24:18,28,M,Berlin,Full-stack Developer,7,Senior,75000,60000,,No,English,50-100,Startup
+14/12/2018 22:26:29,31,M,Berlin,Lead Software Engineer,10,Senior,95000,82000,76000,Yes,English,1000+,Startup
+14/12/2018 22:30:49,26,M,München,Software Engineer,7,Middle,70500,,,Yes,English,1000+,Product
+14/12/2018 22:33:44,32,M,Berlin,Site Reliability engineer ,12,Senior,65000,65000,,No,English,100-1000,Product
+14/12/2018 22:33:46,50,F,Bayern,Project manager,20,Senior,96000,94000,92000,No,Deutsch,100-1000,Product
+14/12/2018 22:34:49,22,M,Berlin,Software Engineer ,5,Middle,65000,,,Yes,English,1000+,Product
+14/12/2018 22:46:56,34,M,München,Architect,11,Senior,83000,75000,67000,No,Russian,100-1000,Product
+14/12/2018 22:51:33,,F,München,Sales ops team lead ,4,Middle,78000,74000,68500,No,English,100-1000,Product
+14/12/2018 23:07:56,33,F,Berlin,Manual QA,4,Middle,45000,,,No,English,up to 10,Startup
+14/12/2018 23:32:06,,M,Berlin,Software developer,8,Middle,65000,50000,45000,No,English,100-1000,Product
+14/12/2018 23:40:57,37,M,München,,10,Senior,120000,,,No,Deutsch,1000+,Product
+14/12/2018 23:53:16,38,M,Berlin,Head of BI,5,Senior,85000,72000,45000,No,English,1000+,Product
+14/12/2018 23:55:34,,M,Stuttgart,iOS Developer,3,Middle,65000,,,No,English,50-100,Product
+15/12/2018 00:16:42,37,M,Tübingen,Software Engineer,15,Senior,65000,65000,,No,English,50-100,Product
+15/12/2018 00:27:54,34,M,Berlin,Java Developer,10,Senior,86000,72000,,No,English,100-1000,Product
+15/12/2018 00:29:01,28,M,Berlin,DevOps,3,Middle,68000,55000,,No,English,10-50,Product
+15/12/2018 00:31:39,31,M,Berlin,Senior PHP Developer,11,Senior,61000,55000,49000,No,English,100-1000,Product
+15/12/2018 00:51:51,25,M,Berlin,Fullstack,5,Senior,60000,53000,47000,No,English,10-50,Product
+15/12/2018 01:05:26,25,M,Berlin,Java developer,4,Middle,48000,42000,38000,No,English,10-50,Agency
+15/12/2018 01:09:43,29,M,Berlin,Team Lead,10,Senior,75000,75000,62000,No,English,100-1000,Startup
+15/12/2018 01:19:44,28,M,München,Product Manager,5,Middle,65000,62000,65000,No,Russian,1000+,Product
+15/12/2018 01:42:11,49,M,Frankfurt,PD,20,Senior,120000,,,No,English,1000+,
+15/12/2018 01:59:53,38,M,Stuttgart,IT Berater,18,Senior,84000,84000,84000,Yes,Russian,up to 10,Agency
+15/12/2018 03:11:43,26,M,München,Java & JS Developer,4,Middle,54000,50000,,No,English,50-100,Product
+15/12/2018 03:41:51,25,F,Berlin,Java developer ,1,Junior,40000,40000,,No,Deutsch,10-50,Product
+15/12/2018 05:40:22,43,M,München,Frontend developer ,10,Senior,61000,55000,,No,English,100-1000,Product
+15/12/2018 06:04:26,35,M,München,DevOps engineer ,15,Senior,85000,65000,65000,No,Deutsch,100-1000,Product
+15/12/2018 07:10:41,31,M,Köln,web developer,2.5,,35000,35000,,No,Deutsch,10-50,Agency
+15/12/2018 07:21:46,27,M,München,iOS Developer,6,Senior,68000,55700,50000,No,English,100-1000,Startup
+15/12/2018 07:45:54,33,M,München,Senior Java Developer,12,Senior,75000,68000,65000,No,English,10-50,Startup
+15/12/2018 08:33:32,,M,Berlin,Senior Software engineer C++,10,Senior,96000,,,Yes,English,up to 10,Product
+15/12/2018 08:40:51,40,M,Köln,network engineer ,15,Senior,70000,,,No,English,100-1000,Product
+15/12/2018 08:57:08,32,M,Berlin,C# Developer ,5,Senior,55000,,,No,English,10-50,Product
+15/12/2018 09:05:31,,M,Berlin,Senior Sys Admin,10,Senior,50000,,,No,English,50-100,Product
+15/12/2018 09:06:45,,F,Berlin,C++ Developer ,10,Senior,57000,,,No,English,100-1000,Product
+15/12/2018 09:16:51,32,M,Berlin,Senior PHP developer,8,Senior,60000,55000,48000,No,English,1000+,Product
+15/12/2018 09:25:30,31,F,Berlin,QA,10,Senior,44000,40000,40000,No,English,100-1000,Startup
+15/12/2018 09:26:39,36,M,München,Product Manager,10,Senior,95000,80000,60000,No,Deutsch,1000+,Product
+15/12/2018 09:37:47,,F,Frankfurt,QA Consultant ,5,Middle,55000,48000,42000,No,Deutsch,10-50,Startup
+15/12/2018 10:03:26,,M,München,Senior PHP Developer,18,Senior,67000,67000,67000,No,English,100-1000,Product
+15/12/2018 10:11:07,31,F,Berlin,TA Engineer,8,Middle,46000,43000,40000,No,English,100-1000,Product
+15/12/2018 10:12:07,30,M,Berlin,CTO,9,Senior,90000,67000,55000,Yes,English,up to 10,Agency
+15/12/2018 10:26:31,33,M,München,Senior software engineer ,11,Senior,92000,76000,76000,No,English,50-100,
+15/12/2018 10:27:44,33,M,Berlin,Java script,16,Senior,95000,80000,80000,Yes,English,10-50,Product
+15/12/2018 10:29:47,38,M,München,Frontend,5,Senior,70000,50000,40000,No,English,10-50,Startup
+15/12/2018 10:40:52,30,M,,Software Architect,11,Senior,115000,,75000,,English,1000+,
+15/12/2018 10:43:27,28,M,Berlin,Lead DevOps,7,Senior,70000,65000,62000,No,English,100-1000,Startup
+15/12/2018 10:45:12,37,M,Brno,DevOps,17,Middle,35000,25000,15000,Yes,English,100-1000,Product
+15/12/2018 10:47:27,26,M,Berlin,QA Lead,7,Senior,60000,,,No,English,100-1000,Product
+15/12/2018 10:50:57,31,M,München,Hardware Engineer ,9,Senior,90000,87000,,Yes,English,1000+,Product
+15/12/2018 10:51:04,31,M,München,Hardware Engineer ,9,Senior,90000,87000,,Yes,English,1000+,Product
+15/12/2018 10:52:39,37,M,Berlin,Senior Backend Developer,17,Senior,80000,65000,61000,No,English,50-100,Startup
+15/12/2018 10:52:50,,M,München,Data Scientist,5,Middle,90000,90000,50000,No,English,1000+,Product
+15/12/2018 10:55:32,33,M,München,System Administrator,13,Senior,72000,70000,68000,No,Russian,10-50,Startup
+15/12/2018 10:58:28,38,M,Berlin,Fullstack,5,Senior,55000,,,No,Deutsch,100-1000,Agency
+15/12/2018 11:02:41,30,M,Berlin,Python Developer,2.5,Middle,52000,48000,42500,No,English,50-100,Product and Projects
+15/12/2018 11:04:08,37,M,Dresden,Developer,10,Senior,53000,51000,49000,No,Deutsch,100-1000,Product
+15/12/2018 11:12:37,30,M,Berlin,Javascript Developer in Test,8,Senior,72000,55000,55000,Yes,English,1000+,Product
+15/12/2018 11:13:19,31,M,,Software Architect,12,Senior,80000,,,No,English,1000+,
+15/12/2018 11:13:33,41,M,München,CEO,20,,200000,200000,150000,Yes,Deutsch,up to 10,Startup
+15/12/2018 11:14:22,27,M,Berlin,Scala developer,5,Middle,63000,56000,52000,Yes,English,1000+,E-Commerce
+15/12/2018 11:17:09,30,M,Berlin,Front-end developer ,,Senior,73300,67000,55000,Yes,English,1000+,Product
+15/12/2018 11:22:15,,M,München,DevOps Architect ,10,Senior,115000,,,No,English,1000+,Development
+15/12/2018 11:27:53,34,M,Berlin,QA Engineer,12,Senior,73500,70000,65000,No,English,100-1000,Product
+15/12/2018 11:33:00,31,M,Berlin,Software Developer,10,Senior,83000,65000,57000,No,English,1000+,Product
+15/12/2018 11:38:11,33,M,Krakow,DevOps Engineer,7,Senior,42000,35000,20000,No,English,100-1000,Outsource
+15/12/2018 11:44:15,39,F,München,BI Developer,5,Middle,56000,51000,,No,English,1000+,Product
+15/12/2018 11:45:48,30,M,Berlin,Senior Software Engineer,9,Senior,130000,120000,120000,Yes,English,1000+,Product
+15/12/2018 12:07:50,30,M,Berlin,,,Senior,70000,68000,,Yes,English,100-1000,Startup
+15/12/2018 12:11:10,24,M,Berlin,SEM Manager,5,Middle,45000,,,No,English,100-1000,Startup
+15/12/2018 12:15:22,,M,Dublin,IOS developer ,7,Senior,57000,53000,51000,No,English,50-100,Product
+15/12/2018 12:16:26,29,F,Amsterdam,Backend developer,4,Middle,58000,49500,,No,English,10-50,Startup
+15/12/2018 12:18:59,30,M,Amsterdam,Lead developer,8,Senior,65000,58000,58000,No,English,1000+,
+15/12/2018 12:21:06,23,M,Eindhoven,Python Developer,5,Senior,47500,,,No,English,50-100,Product
+15/12/2018 12:22:50,33,M,München,iOS Developer,12,Middle,70000,66000,60000,No,English,,Product
+15/12/2018 12:24:14,21,M,Amsterdam,Software Engineer 2(Frontend),4,Middle,90000,62000,,Yes,English,1000+,Product
+15/12/2018 12:32:35,,F,Berlin,QA Automation Engineer,5,Middle,50000,40000,,No,English,50-100,Startup
+15/12/2018 12:37:08,33,M,Berlin,Senior Software Engineer,12,Senior,85000,65000,65000,No,English,1000+,Product
+15/12/2018 12:39:12,30,M,Amsterdam ,Systems engineer,8,Senior,65000,,,No,English,1000+,Product
+15/12/2018 12:39:49,34,M,Berlin,Oracle Developer,5,Middle,62000,60000,58000,No,Deutsch,100-1000,
+15/12/2018 12:40:24,40,M,München,Oracle Pl/SQL Developer,20,Senior,60000,55000,50000,No,Deutsch,10-50,Product
+15/12/2018 12:43:25,28,F,Luxembourg,BI developer,8,Middle,66000,,,No,French,100-1000,Agency
+15/12/2018 12:44:08,32,M,Amsterdam,Senior JS Enigneer,15,Senior,75000,,,No,English,100-1000,Product
+15/12/2018 13:00:03,37,M,Amsterdam,Perl/Java Developer,,Middle,70000,55000,,No,English,1000+,Product
+15/12/2018 13:05:32,33,M,Berlin,Software Engineer,10,Senior,65000,,,No,English,10-50,Product
+15/12/2018 13:05:37,33,M,Berlin,Software Engineer,10,Senior,65000,,,No,English,10-50,Product
+15/12/2018 13:09:24,28,M,Amsterdam,Python Developer,6,Senior,70000,30000,26000,No,English,100-1000,Product
+15/12/2018 13:10:58,,F,München,Java developer,7,Senior,62000,55000,52000,No,English,1000+,Product
+15/12/2018 13:12:36,22,F,München,Data Scientist,1,Middle,55000,,,No,English,10-50,Startup
+15/12/2018 13:17:44,30,M,Berlin,iOS Developer,5,Senior,60000,50000,45000,No,English,50-100,Startup
+15/12/2018 13:22:45,25,M,München,QA Engineer,5,Middle,56000,55000,,Yes,English,1000+,Product
+15/12/2018 14:03:17,33,M,Konstanz,Data Scientist,10,Middle,65000,60000,60000,No,English,50-100,Product
+15/12/2018 14:24:35,25,M,Amsterdam,Software Developer,6,Middle,78000,72500,,Yes,English,1000+,Product
+15/12/2018 14:44:59,25,M,Amsterdam,Python Test Automation Engineer,4,Senior,60000,,,No,English,100-1000,
+15/12/2018 14:53:13,35,M,München,Senior Java Developer,12,Senior,85000,,,No,English,100-1000,Product
+15/12/2018 15:11:34,34,F,,Senior .Net developer,12,Senior,61000,,,No,English,1000+,Product
+15/12/2018 15:14:45,31,M,Amsterdam,C++ Engineer,10,Senior,68000,65000,65000,No,English,1000+,Product
+15/12/2018 15:22:44,28,M,Berlin,Senior Software Engineer ,8,Senior,60000,55000,45000,No,English,10-50,Product
+15/12/2018 15:25:05,26,M,Hamburg,Scala Developer,5,Senior,81000,78000,63000,Yes,English,100-1000,Startup
+15/12/2018 15:26:35,30,M,München,Java Developer,3,Middle,61000,,,No,English,50-100,Product
+15/12/2018 16:05:51,42,M,Berlin,Head of Engineering,25,Senior,140000,130000,130000,Yes,English,1000+,Product
+15/12/2018 16:14:24,39,M,Berlin,IT Administration,6,Senior,52000,46000,40000,No,English,50-100,Product
+15/12/2018 16:19:41,30,M,Berlin,Data Engineer,5,Senior,65000,,,No,English,100-1000,Startup
+15/12/2018 16:20:04,,M,Berlin,Data Engineer,8,Senior,80000,,,No,English,1000+,Product
+15/12/2018 16:32:01,33,M,Stuttgart,Java Developer,8,Middle,68000,68000,56000,No,Deutsch,100-1000,Product
+15/12/2018 16:57:43,36,M,Dublin ,iOS developer ,7,Senior,90000,77000,70000,No,English,50-100,Product
+15/12/2018 17:15:31,30,M,München,Data Scientist,6,Middle,80000,72000,66000,No,English,1000+,Product
+15/12/2018 17:33:01,28,M,Amsterdam,Scala\Java,10,Senior,80000,75000,70000,No,English,10-50,Startup
+15/12/2018 17:48:02,32,M,München,Full-Stack Web Developer,7,Senior,65000,63000,63000,No,English,100-1000,Product
+15/12/2018 18:02:36,30,M,Amsterdam,Go Developer,10,Senior,70000,24000,22000,No,Russian,50-100,Product
+15/12/2018 18:14:51,30,F,München,ios developer,7,Senior,60000,60000,,No,English,10-50,Startup
+15/12/2018 18:29:11,32,M,München,Senior Fullstack,10,Senior,60000,,,No,English,100-1000,Product
+15/12/2018 18:37:23,30,M,Berlin,Java Software Engineer ,4,Middle,55000,51000,49000,No,English,100-1000,Product
+15/12/2018 19:24:59,,M,München,Senior Web Developer ,8,Senior,65000,60000,50000,No,Deutsch,10-50,Product
+15/12/2018 19:51:12,25,M,Karlsruhe,Android Developer,2,Middle,52000,,,No,Deutsch,10-50,Agency
+15/12/2018 20:17:25,43,M,Berlin,Software Engineer,20,Senior,75000,,,No,Deutsch,1000+,Agency
+15/12/2018 20:26:59,32,M,Berlin,Java/JS Developer,11,Senior,87000,75000,72000,No,English,1000+,Product
+15/12/2018 20:43:02,30,M,Berlin,Senior Software Engineer (Data Engineer),8,Senior,66000,63000,53000,No,English,100-1000,Startup
+15/12/2018 20:48:25,,M,München,IT-Consultant,5,Middle,50000,45000,,No,Deutsch,10-50,Agency
+15/12/2018 21:06:19,,M,Frankfurt,System administrator,1,Junior,30000,,,No,Russian,up to 10,Product
+15/12/2018 21:12:04,31,M,Berlin,Scala Developer,9,Senior,60000,60000,60000,No,English,1000+,Startup
+15/12/2018 21:15:02,34,M,Berlin,Senior Software Engineer ,12,Senior,75000,,,No,English,100-1000,Startup
+15/12/2018 21:15:37,30,M,,CTO,10,Senior,130000,125000,96000,Yes,English,50-100,
+15/12/2018 21:22:42,26,M,München,iOS Developer,4,Senior,70000,45000,,No,Russian,50-100,Product
+15/12/2018 21:38:11,28,M,München,IT Consultant,3,Middle,62000,53500,,No,Deutsch,1000+,Consulting Company
+15/12/2018 21:41:10,34,M,Berlin,QA,8,Senior,53500,50000,,No,English,100-1000,Startup
+15/12/2018 22:11:05,24,M,Köln,Software Engineer,4,Junior,87975,60500,,Yes,English,1000+,Product
+15/12/2018 22:24:04,31,M,Berlin,Team lead PHP,10,Senior,60000,55000,50000,No,English,100-1000,Product
+15/12/2018 22:24:07,31,F,Eindhoven,Data scientist,4,Middle,,,,No,English,50-100,Product
+15/12/2018 22:32:31,31,M,Berlin,Team Lead,9,Senior,70000,70000,60000,No,English,1000+,Product
+15/12/2018 22:46:17,26,M,Berlin,Full stack developer,6,Senior,60000,54000,45000,No,English,10-50,Startup
+15/12/2018 23:02:13,27,M,München,Web Analytics Manager,3,Middle,55000,,,No,English,1000+,Product
+15/12/2018 23:10:31,32,M,Prague,Engineering Manager,11,Senior,70000,62000,55000,Yes,English,1000+,Product
+15/12/2018 23:34:27,34,M,München,Java Developer,14,Senior,70000,65000,60000,No,Russian,10-50,Startup
+16/12/2018 00:10:34,33,M,Berlin,Senior PHP Developer,10,Senior,54000,48000,48000,No,English,50-100,Product
+16/12/2018 00:15:34,35,M,München,Deep Learning Researcher (PHD),7,Senior,130000,120000,115000,No,English,100-1000,Product
+16/12/2018 00:41:52,,M,München,Software Architekt ,18,Senior,140000,75000,70000,No,Deutsch,100-1000,Agency
+16/12/2018 01:41:06,34,M,Berlin,Senior Software Engineer,10,Senior,76000,68000,62000,Yes,English,100-1000,Startup
+16/12/2018 01:57:27,35,M,Berlin,Solution Engineer,5,Middle,53000,50400,,Yes,English,100-1000,Startup
+16/12/2018 07:33:00,30,M,Moscow,Senior software engineer,10,Senior,31500,17400,10001,No,Russian,1000+,Agency
+16/12/2018 07:36:39,36,M,Stockholm,Senior SQL Server DBA/Developer,13,Senior,58000,53000,,No,English,50-100,Product
+16/12/2018 10:20:57,37,M,Berlin,QA Automation,6,Senior,52000,42000,40000,No,English,100-1000,Product
+16/12/2018 10:39:55,30,M,Berlin,Lead developer,9,Senior,75000,65000,57000,Yes,English,50-100,Startup
+16/12/2018 10:45:23,37,F,Berlin,Senior Software Ingenieur Java,10,Senior,68000,58000,55000,No,Deutsch,100-1000,IT Dienstleistungen 
+16/12/2018 10:49:01,28,M,München,.net developer ,7,Senior,60000,,,,English,10-50,Product
+16/12/2018 10:50:12,29,M,Berlin,Frontend developer,6,Senior,58000,,,No,English,100-1000,Product
+16/12/2018 11:11:12,37,M,München,Lead Architect,15,Senior,110000,110000,95000,No,Deutsch,1000+,Agency
+16/12/2018 11:17:00,30,M,München,Quality engineer,7,Senior,68000,,,No,English,100-1000,Product
+16/12/2018 11:51:14,30,M,München,Team Lead,9,Senior,70000,65000,75000,Yes,English,100-1000,Startup
+16/12/2018 12:10:47,30,M,Amsterdam ,Devops,10,Senior,70000,55000,,No,English,100-1000,Product
+16/12/2018 12:50:24,32,F,München,Scrum Master,12,Middle,72000,53000,48000,No,English,100-1000,Product
+16/12/2018 13:01:21,34,M,Frankfurt,Software Test Engineer,8,Middle,60000,,,No,English,100-1000,Agency
+16/12/2018 13:31:18,22,M,"Belgrade, Serbia",Sr. JS Developer,10,Senior,120000,100000,100000,No,English,100-1000,Agency
+16/12/2018 14:59:51,35,M,Kyiv,Javascript Developer,10,Senior,43000,43000,43000,No,Russian,10-50,Product
+16/12/2018 15:55:00,28,F,München,SAP Business Analyst,1,Junior,60000,,,No,Deutsch,1000+,Manufacturing
+16/12/2018 17:20:10,29,M,Berlin,Senior Backend Developer,7,Senior,70000,70000,54000,No,English,100-1000,Product
+16/12/2018 17:58:53,34,F,Berlin,UX Designer,4,Senior,48000,,,Yes,English,10-50,Startup
+16/12/2018 18:16:01,31,F,München,Business Intelligence Analyst,4,Middle,67000,67000,55000,No,English,1000+,Product
+16/12/2018 18:18:30,28,F,Berlin,Product manager,1,Middle,36000,20000,,No,English,10-50,Startup
+16/12/2018 18:58:21,25,M,Berlin,Software Developer (Python Backend),3,Middle,75000,55000,48000,Yes,English,50-100,Product
+16/12/2018 19:01:40,30,M,Frankfurt,System administrator ,9,Middle,65000,18000,17000,No,English,100-1000,Stock market 
+16/12/2018 19:14:58,37,M,Berlin,Software Engineer ,6,Senior,63000,63000,55000,No,English,100-1000,Product
+16/12/2018 19:20:34,33,F,München,Java Developer,11,Senior,60000,,,No,English,100-1000,telecom operator
+16/12/2018 19:25:43,34,M,Amsterdam,Designer,10,Senior,57000,56000,55000,No,English,50-100,Product
+16/12/2018 19:53:03,30,M,Frankfurt,Data Scientist,7,Senior,112000,105000,105000,No,Deutsch,100-1000,Product
+16/12/2018 20:13:37,27,M,Berlin,Software Engineer,11,Senior,100000,80000,70000,Yes,English,1000+,Ecommerce
+16/12/2018 20:20:45,30,M,München,CTO ,5,Senior,72000,50000,50000,Yes,English,up to 10,Startup
+16/12/2018 21:06:21,30,F,Berlin,Lead Developer,11,Senior,78000,68000,,No,English,1000+,Startup
+16/12/2018 21:14:16,32,F,München,java fullsteck developer,3,Junior,44000,42000,42000,No,Deutsch,100-1000,Product
+16/12/2018 21:28:14,31,M,Nürnberg,Software Engineer,6,Middle,59000,50000,50000,No,Deutsch,1000+,Consulting
+16/12/2018 21:48:16,38,M,München,QA,10,Senior,66000,63000,61000,Yes,Deutsch,100-1000,Product
+16/12/2018 22:04:56,,M,München,"Unreal Engine Developer, System Architect",11,Senior,60000,60000,60000,No,English,up to 10,Startup
+16/12/2018 23:03:08,36,M,Hamburg,Senior Software Developer,10,Senior,65000,65000,65000,No,English,100-1000,Product
+17/12/2018 00:02:54,31,F,München,Java Developer,9,Middle,47000,45000,45000,No,English,10-50,Agency
+17/12/2018 00:07:22,33,M,Amsterdam,Tech lead,9,Middle,60000,59000,59000,No,English,100-1000,Product
+17/12/2018 06:07:53,36,M,,SAP Consultant,12,Senior,72000,69000,65000,No,English,1000+,
+17/12/2018 07:09:56,26,M,München,JavaScript Developer,5,Senior,68400,,,No,Team - Russian; Cross-team - English;,1000+,Agency
+17/12/2018 07:56:36,37,M,Berlin,Software engineer ,15,Senior,55000,,,No,Deutsch,100-1000,Product
+17/12/2018 08:14:34,31,M,München,Senior PHP developer,12,Senior,60000,,,No,English,1000+,Product
+17/12/2018 08:37:06,29,M,München,DevOps,9,Senior,70000,60000,55000,Yes,English,50-100,Startup
+17/12/2018 09:16:45,30,M,München,Senior iOS Developer,8,Senior,65000,,,No,English,1000+,Product
+17/12/2018 10:07:20,43,M,Berlin,Consultant,18,Senior,70000,70000,64000,No,Deutsch,50-100,Product
+17/12/2018 10:45:22,30,M,München,Test Engineer,10,Senior,80000,76000,72000,No,Russian,100-1000,Product
+17/12/2018 11:00:28,29,F,Berlin,,1,Junior,47000,47000,40000,Yes,English,100-1000,Product
+17/12/2018 11:19:25,32,M,Berlin,Developer,12,Senior,66000,64000,60000,Yes,English,50-100,Startup
+17/12/2018 11:22:40,42,M,Karlskrona,Java Developer,15,Senior,67200,64000,,No,English,1000+,Product
+17/12/2018 11:37:08,31,,München,Software Engineer,14,Senior,85000,75000,65000,Yes,English,1000+,Product
+17/12/2018 12:11:26,36,M,Berlin,CTO,15,Senior,89000,79000,68000,Yes,English,10-50,Startup
+17/12/2018 13:17:43,31,M,Berlin,Devops,6,Senior,72000,70000,62500,No,English,1000+,Product
+17/12/2018 13:21:02,28,M,München,DB Developer,5,Senior,69000,67000,,No,English,1000+,Product
+17/12/2018 14:07:36,34,M,Berlin,Senior Software Engineer,15,Senior,60000,20000,20000,No,English,1000+,Product
+17/12/2018 14:07:40,36,M,Berlin,Ruby Developer,2,Middle,53000,,,No,English,50-100,Startup
+17/12/2018 14:11:08,43,M,Berlin,SAP Consulter/ABAP Developer ,16,Senior,86000,84000,82000,Yes,Deutsch,50-100,Consulting
+17/12/2018 14:23:30,29,M,Krakau,DevOps Engineer,11,Senior,45000,39200,28000,No,English,1000+,Outsourcing
+17/12/2018 14:25:20,27,M,München,Java Developer,5,Senior,72000,60000,55000,Yes,Russian,50-100,Startup
+17/12/2018 14:50:45,30,M,München,Business Analyst/RE,3,Middle,65000,,,No,Deutsch,1000+,Product
+17/12/2018 14:57:03,28,F,Vienna,C++ sr. s/w dev,6,Senior,75000,75000,,No,English,10-50,Product
+17/12/2018 15:37:57,22,M,München,iOS Developer,3,Junior,47000,,,No,Deutsch,100-1000,Agency
+17/12/2018 15:40:30,25,M,Berlin,Android dev,6,Senior,60000,55000,48000,No,English,100-1000,Product
+17/12/2018 15:55:56,28,M,München,C++ Developer,6,Middle,50000,,,No,English,100-1000,Agency
+17/12/2018 16:01:29,36,M,Berlin,Senior Web Deleloper,8,Senior,55000,28000,28000,Yes,English,10-50,Startup
+17/12/2018 16:14:23,35,M,London,Software developer,12,Senior,111000,95000,95000,No,English,100-1000,Product
+17/12/2018 16:16:50,28,F,Stockholm,Automation Test Engineer,6,Middle,40800,36000,,No,English,100-1000,Product
+17/12/2018 16:18:13,48,M,Bitburg,SSE,18,Senior,92100,89300,87600,No,Deutsch,100-1000,Product
+17/12/2018 16:18:33,23,M,Nürnberg,Java Developer,5,Middle,73000,,,No,English,1000+,Product
+17/12/2018 16:19:47,24,M,Berlin,Scala Developer,4,Middle,54000,,,No,English,10-50,Product
+17/12/2018 16:25:33,25,M,Gdansk,Java Developer,3,Senior,38000,,,No,English,1000+,Outsorce
+17/12/2018 16:46:55,30,M,Berlin,Web Developer,8,Senior,75000,62000,55000,Yes,English,1000+,Product
+17/12/2018 16:59:49,28,M,Berlin,Senior .Net Developer,8,Senior,66000,55000,,No,English,10-50,Product
+17/12/2018 17:08:52,31,M,Berlin,Software Developer,9,Senior,70000,60000,60000,No,English,50-100,Product
+17/12/2018 17:09:25,31,M,Stuttgart,Data Engineer,10,Senior,60000,,,No,English,10-50,Product
+17/12/2018 17:28:36,27,M,Berlin,Front End Engineer,8,Senior,70000,65000,63000,Yes,English,100-1000,Product
+17/12/2018 17:53:50,,F,Berlin,Werkstudent Testautomatisierung,1,Junior,10300,10300,10300,No,Deutsch,100-1000,Product
+17/12/2018 18:24:15,30,M,München,Full Stack Developer,9,Senior,75000,65000,65000,No,English,1000+,Product
+17/12/2018 18:35:33,,M,Berlin,ios вумудщзук,30,Senior,65000,56000,47000,No,English,50-100,Startup
+17/12/2018 18:36:29,25,M,Poland,QA Engineer,2.5,Middle,24000,16500,16500,No,Polish,1000+,Product
+17/12/2018 18:58:02,23,M,München,iOS Developwr,2,Middle,52000,,,No,Deutsch,50-100,Agency
+17/12/2018 19:02:21,33,M,Prague,.NET Developer,10,Senior,39600,33600,30000,No,English,1000+,Outsource
+17/12/2018 19:18:13,31,M,München,DevOps,9,Middle,64400,58400,,No,English,100-1000,Product
+17/12/2018 20:23:15,33,M,Düsseldorf,C++ Software Engineer,12,Senior,57000,57000,57000,No,Russian,up to 10,Product
+17/12/2018 20:30:05,,M,Frankfurt,QA,9,Senior,52000,50000,,No,English,1000+,Product
+17/12/2018 20:49:55,31,M,Luxembourg,Software Development Engineer,6,Middle,77000,77000,,Yes,English,1000+,Product
+17/12/2018 21:46:00,,M,München,Engineering consultant,20,Senior,48000,,,No,English,1000+,consulting
+17/12/2018 21:53:50,34,M,Berlin,Senior Software Engineer,12,Senior,67000,55000,55000,No,English,100-1000,Startup
+17/12/2018 22:22:14,32,M,Berlin,C# Developer ,5,Senior,55000,55000,55000,No,English,10-50,Product
+17/12/2018 23:00:51,31,M,Berlin,Senior Java Developer,9,Senior,85000,64000,58000,No,English,1000+,Product
+17/12/2018 23:02:20,33,M,Stuttgart,Python Developer,8,Senior,57800,54000,,No,English,100-1000,Product
+17/12/2018 23:16:24,26,M,Berlin,Android developer,4,Middle,20400,20400,20400,No,English,10-50,Product
+17/12/2018 23:36:53,30,M,Krakow,Project Manager,7,Senior,44000,40000,,No,Russian,1000+,Outsource
+18/12/2018 00:05:45,33,F,London,Product Manager,10,Senior,70000,56000,,No,English,100-1000,Agency
+18/12/2018 01:03:19,25,M,,C# Developer,2,Middle,24000,10500,,No,Russian,10-50,Product
+18/12/2018 01:03:23,25,M,,C# Developer,2,Middle,24000,10500,,No,Russian,10-50,Product
+18/12/2018 02:42:05,26,F,München,Software developer,4,Middle,47300,41000,38000,No,English,50-100,Product
+18/12/2018 06:50:08,45,M,Berlin,java developer,8,Middle,53000,48000,36000,Yes,Deutsch,1000+,Agency
+18/12/2018 09:00:13,,M,Krakow,Java Developer,10,Senior,23162,23162,,No,English,100-1000,Product
+18/12/2018 09:10:10,36,M,Ludwigsburg,System Architect,10,Senior,100000,97000,95500,No,Deutsch,1000+,GmbH
+18/12/2018 09:36:30,35,M,München,Head of Development,11,Senior,100000,90000,90000,No,Deutsch,100-1000,Product
+18/12/2018 09:44:01,38,M,München,PHP Full Stack Developer,15,Senior,60000,51000,,No,English,up to 10,Product
+18/12/2018 10:00:53,45,F,München,System Analyst,,Middle,90000,89000,88000,No,English,1000+,Product
+18/12/2018 10:06:00,38,M,Berlin,Senior Java Developer,15,Senior,60000,60000,,No,English,1000+,Startup
+18/12/2018 10:10:49,35,M,Berlin,CTO,13,Senior,60000,54000,,Yes,English,up to 10,Startup
+18/12/2018 10:15:08,32,M,München,DevOps,10,,75000,,,No,English,1000+,Product
+18/12/2018 10:37:10,35,M,München,DevOps engineer,11,Middle,60000,,,Yes,English,10-50,Startup
+18/12/2018 10:40:46,30,M,Hamburg,QA Engineer,5,Middle,56000,50000,,Yes,English,100-1000,Product
+18/12/2018 11:14:53,32,M,Berlin,BI Developer,7,Senior,55000,50000,42000,,English,50-100,Startup
+18/12/2018 11:16:23,45,M,Essen,Senior quant,20,Senior,80000,75000,70000,No,English,1000+,Corporation
+18/12/2018 11:17:41,,M,München,Senior Java Developer,18,Senior,75000,72000,,No,English,100-1000,Product
+18/12/2018 11:20:41,37,M,Berlin,Senior Software Engineer,15,Senior,86000,77000,74000,No,English,10-50,Product
+18/12/2018 11:25:57,21,F,Strasbourg,Data Developer,2,Junior,17532,11520,,No,French,1000+,Product
+18/12/2018 11:43:01,,M,"Alicante, Spain",Ruby developer,5,Senior,34000,31000,24000,No,Russian,50-100,Agency
+18/12/2018 11:49:24,32,M,München,Senior Software Engineer,10,Senior,69000,65000,50000,No,English,100-1000,Product
+18/12/2018 11:49:42,32,M,München,Senior Software Engineer,10,Senior,69000,65000,50000,No,English,100-1000,Product
+18/12/2018 11:50:35,38,M,Berlin,Data Scientist,5,Senior,60000,60000,54000,No,English,up to 10,Product
+18/12/2018 12:00:16,27,M,Warsaw,Data Processing Specialist,2,Middle,19200,14400,10800,No,Polish,50-100,Product
+18/12/2018 12:46:46,37,M,,Python developer,2,Middle,30000,24000,,No,English,10-50,Product
+18/12/2018 12:49:44,27,M,München,Frontend,7,Senior,75000,58000,,No,English,100-1000,Product
+18/12/2018 12:56:33,35,M,München,Full stack developer,13,Senior,63000,,,No,English,1000+,Product
+18/12/2018 13:00:19,28,M,Memmingen,Senior Software engineer,8,Senior,92000,,,No,English,10-50,IT Consulting 
+18/12/2018 13:03:59,33,M,Berlin,Software Developer,5,Middle,51750,45000,37050,Yes,Deutsch,10-50,Startup
+18/12/2018 13:22:40,34,F,München,PHP Dev,,Middle,62000,50000,45000,No,English,1000+,Product
+18/12/2018 13:27:34,36,M,Amsterdam,Senior Automation Test Engineer,13,Senior,80000,80000,72000,No,English,100-1000,Product
+18/12/2018 13:50:03,30,F,München,QA,5,Middle,58000,56000,54000,Yes,English,1000+,Product
+18/12/2018 13:50:32,31,M,Berlin,Engineering Manager,12,Junior,108000,110000,90000,Yes,English,100-1000,Product
+18/12/2018 13:53:39,37,M,München,Operations,15,Middle,72000,65000,62000,No,English,1000+,Product
+18/12/2018 14:11:38,33,M,Tallinn,Software Engineer,10,Senior,38400,,,Yes,English,1000+,Product
+18/12/2018 14:16:32,31,M,Berlin,Golang developer,8,Senior,65000,65000,,No,English,10-50,Startup
+18/12/2018 14:21:49,30,M,Berlin,Software Engineer,8,Senior,70000,66000,65000,No,English,1000+,Product
+18/12/2018 14:23:48,31,F,München,QA,6,Middle,51000,50000,,No,English,50-100,Product
+18/12/2018 14:28:00,24,F,München,Softwaredeveloper,4,Middle,57000,43000,,No,English,10-50,Agency
+18/12/2018 14:28:27,36,M,Berlin,Senior Software Developer,15,Senior,75000,69000,66000,No,English,100-1000,Product
+18/12/2018 14:55:05,40,M,München,Front End developer,12,Senior,69600,65000,62000,No,English,100-1000,Product
+18/12/2018 15:21:18,33,M,Köln,Team Lead,10,Senior,85000,80000,77000,No,Deutsch,100-1000,Product
+18/12/2018 15:27:24,34,M,München,Software Engineer,10,Senior,68000,,,No,English,100-1000,Product
+18/12/2018 15:31:57,31,M,München,Senior software engineer ,9,Senior,65000,,,No,English,1000+,Product
+18/12/2018 15:36:09,37,M,Stuttgart,DevOps (MS Stack),6,Senior,58500,12000,10500,No,Deutsch,100-1000,Product
+18/12/2018 15:48:51,32,M,Berlin,Head of Data Science,9,Senior,130000,115000,115000,Yes,English,50-100,Startup
+18/12/2018 16:15:47,32,M,Frankfurt,DevOps Architect,10,Senior,80000,52000,42000,Yes,English,1000+,Agency
+18/12/2018 16:28:33,30,M,Berlin,Sr. Engineer,12,Senior,65000,58000,51000,Yes,English,50-100,Startup
+18/12/2018 16:36:17,42,M,Berlin,qa ta architect,15,Senior,68000,62000,62000,No,English,50-100,Product
+18/12/2018 17:15:11,32,M,Dublin,.NET Developer,10,Senior,96000,93000,91000,No,English,100-1000,Product
+18/12/2018 17:34:39,,M,Zurich,,,,150000,,,Yes,English,1000+,Product
+18/12/2018 17:43:31,35,M,Hamburg,Senior PHP Developer,15,Senior,60000,63000,55000,No,Deutsch,10-50,Startup
+18/12/2018 18:58:10,29,M,München,Head of Software Engineering ,11,Senior,120000,85000,75000,No,English,50-100,Startup
+18/12/2018 19:09:28,27,F,München,QA Engineer,6,Middle,70000,65000,55000,No,English,100-1000,Product
+18/12/2018 19:16:53,30,M,,Web Developer,9,Middle,44000,44000,,No,English,100-1000,Product
+18/12/2018 19:59:16,27,M,Hamburg,Software Engineer,5,Middle,58500,53500,,No,,100-1000,Agency
+18/12/2018 20:17:49,30,F,Berlin,Quality Engineer,9,Middle,55000,43000,,No,English,100-1000,Startup
+18/12/2018 20:31:26,30,M,München,Java dev,6,Senior,70000,56000,56000,No,English,50-100,Startup
+18/12/2018 20:35:56,28,M,München,,7,Middle,60000,,,No,English,50-100,Startup
+18/12/2018 20:46:41,33,M,oslo,,,Senior,80000,70000,,Yes,English,up to 10,Startup
+18/12/2018 21:06:49,25,M,Münster,PHP developer,4,Middle,42000,,,No,English,1000+,Product
+18/12/2018 21:12:58,35,M,Krakow,Staff Technical Product Manager,7,Senior,47000,,,No,English,100-1000,Product
+18/12/2018 21:43:22,31,M,München,PHP Tech Lead,7,Senior,68000,65000,,No,English,100-1000,Product
+18/12/2018 21:53:24,33,M,München,.NET Developer,4,Middle,65000,50000,50000,No,Deutsch,1000+,IT Consultancy 
+18/12/2018 21:55:11,,F,,UI Designer,10,Senior,56000,,,Yes,Deutsch,10-50,Product
+18/12/2018 21:55:29,32,M,,.NET Developer,11,Senior,65000,65000,65000,No,English,50-100,Agency
+18/12/2018 22:20:17,,F,Berlin,Pyhon developer,2,Junior,47250,45000,45000,No,English,100-1000,Startup
+18/12/2018 22:23:02,33,M,Berlin,C++ Software Developer,12,Senior,87000,77000,70000,Yes,English,1000+,Product
+18/12/2018 22:30:11,32,M,München,Java Team Lead,12,Senior,85000,80000,75000,No,English,100-1000,Product
+18/12/2018 22:40:10,35,F,München,Quality assurance,3,Junior,39000,38000,38000,No,English,100-1000,Product
+18/12/2018 23:13:00,40,F,Frankfurt,DB ,4,Middle,65000,,,,Deutsch,100-1000,
+19/12/2018 00:39:49,28,M,Berlin,Data Scientist,6,Senior,65000,55000,,Yes,English,10-50,Startup
+19/12/2018 09:46:25,35,M,München,Senior Software Developer,13,Senior,65000,65000,,No,Deutsch,1000+,Product
+19/12/2018 10:19:56,34,M,Berlin,Software Developer,15,Senior,69000,60000,60000,No,English,100-1000,Product
+19/12/2018 10:27:08,31,M,Berlin,Fullstack Engineer,8,Senior,77000,72000,54000,No,English,100-1000,Product
+19/12/2018 10:33:03,32,M,Berlin,Software engineer,7,Senior,73000,68000,69000,No,Deutsch,100-1000,Product
+19/12/2018 10:34:21,32,M,Berlin,Senior automation qa,10,Senior,65000,80000,55000,No,English,100-1000,Product
+19/12/2018 10:35:53,30,M,München,Android developer,5,Senior,60000,60000,,No,English,1000+,Product
+19/12/2018 10:47:26,29,F,München,QA automation ,6,Middle,55000,,,Yes,English,100-1000,Agency
+19/12/2018 11:17:07,60,F,München,PL SQL / C#,38,,58000,58000,58000,No,Deutsch,up to 10,Product
+19/12/2018 11:29:18,50,M,Köln,Senior Consulter,20,Senior,72000,72000,67000,Yes,Deutsch,1000+,IT Service Provider
+19/12/2018 12:23:56,29,M,München,Senior Java Developer,6,Senior,75000,70000,,No,English,10-50,Product
+19/12/2018 12:28:51,31,M,Frankfurt,devops,5,Middle,55000,55000,47500,No,English,100-1000,Startup
+19/12/2018 12:35:39,29,M,Berlin,Team Lead,7,Senior,70000,65000,50000,No,English,100-1000,Product
+19/12/2018 12:36:41,36,M,Tallinn,,15,Senior,57000,55000,53500,Yes,English,1000+,Product
+19/12/2018 12:37:33,31,M,Frankfurt,Cloud Architect,10,Senior,75000,65000,55000,No,English,10-50,Agency
+19/12/2018 12:53:51,34,M,München,CTO,12,Senior,70000,95000,75000,Yes,Deutsch/Englisch,10-50,Product
+19/12/2018 13:13:37,31,M,Berlin,C++ Developer,4,Senior,65000,45000,40000,No,English,1000+,Product
+19/12/2018 13:40:18,47,M,München,SharePoint Developer,11,Senior,66000,66000,65000,No,Deutsch,1000+,"non-IT, manufacturing"
+19/12/2018 13:55:15,,M,London,Big Data Developer ,10,Senior,90000,90000,70000,No,English,1000+,Bank 
+19/12/2018 14:00:34,43,M,München,DWH expert,10,Senior,88000,85000,83000,Yes,English,1000+,Insurance
+19/12/2018 14:03:52,33,M,München,Senior Full stack developer,7,Senior,70000,70000,65000,No,English,100-1000,Product
+19/12/2018 14:17:38,32,M,Hildesheim,C++ developer,12,Senior,60000,60000,60000,No,English,1000+,Product
+19/12/2018 14:32:15,,M,München,Android dev.,7,Middle,78000,75000,75000,No,Deutsch,50-100,Product
+19/12/2018 15:30:31,47,M,Berlin,Java Developer,10,Senior,64500,64000,62000,No,Deutsch,100-1000,IT-Beratung
+19/12/2018 15:39:37,31,M,Berlin,Senior Data Scientist,7,Senior,96000,85000,85000,Yes,English,100-1000,Product
+19/12/2018 15:40:32,,M,Berlin,Frontend Developer,7,Senior,68000,64000,60000,No,English,100-1000,Startup
+19/12/2018 15:50:09,40,M,Dublin,Senior Embedded Developer,20,Senior,80000,72000,72000,No,English,10-50,Startup
+19/12/2018 15:55:31,33,M,Berlin,Computer Vision Engineer,10,Senior,122000,110000,102000,Yes,English,1000+,Product
+19/12/2018 16:02:32,46,M,London,Data Engineer,21,Middle,90000,90000,90000,No,English,100-1000,Startup
+19/12/2018 16:19:01,27,M,München,Software Engineer,2,Junior,55000,55000,,No,English,1000+,Product
+19/12/2018 16:36:52,43,M,Frankfurt,C#.net Developer,18,Senior,60000,60000,60000,No,English,1000+,Consulting
+19/12/2018 16:37:02,32,F,Hamburg,QA Lead,10,,65000,65000,55000,Yes,English,50-100,Startup
+19/12/2018 17:01:14,34,M,München,QA,10,Middle,70000,,,No,Deutsch,100-1000,Product
+19/12/2018 17:21:50,38,M,Berlin,Team Lead,15,Senior,75000,65000,60000,No,English,1000+,Product
+19/12/2018 17:30:09,31,F,München,Java Developer,9,Senior,65000,,,No,English,50-100,Startup
+19/12/2018 17:45:39,31,M,Berlin,iOS Developer,4,Middle,60000,52600,48000,Yes,English,100-1000,Product
+19/12/2018 17:49:22,32,M,Frankfurt,It security ,15,Senior,165000,130000,110000,Yes,English,up to 10,Agency
+19/12/2018 18:18:05,34,M,München,Deep Learning Engineer,9,Senior,138000,124000,124000,No,English,1000+,Product
+19/12/2018 19:41:22,42,M,München,Application Engineer ,19,Senior,110000,105000,103000,Yes,English,1000+,Product
+19/12/2018 20:15:34,,M,Berlin,Devops,10,Senior,60000,55000,,No,English,50-100,Startup
+19/12/2018 20:53:38,30,M,München,iOS Developer,5,Middle,58000,,,No,English,100-1000,Startup
+19/12/2018 21:08:48,26,M,Köln,Software Engineer (java),1.5,Junior,46000,44000,18000,No,Deutsch,1000+,Technology Consulting
+19/12/2018 21:21:28,27,M,Berlin,Senior Software Engineer,5,Senior,73000,69000,60000,No,English,10-50,Startup
+19/12/2018 21:34:04,36,M,München,Senior Data Engineer,14,Senior,68000,,,No,English,100-1000,Agency
+19/12/2018 21:34:13,36,M,München,Senior Data Engineer,14,Senior,68000,,,No,English,100-1000,Agency
+19/12/2018 21:43:05,30,F,Berlin,android developer,5,Middle,52000,,,No,English,1000+,Product
+19/12/2018 22:53:11,26,M,Köln,PHP Symfony,6,Senior,60000,50000,,No,English,10-50,Startup
+20/12/2018 00:38:28,32,M,Stuttgart,C#,7,Middle,74000,55000,50000,Yes,Deutsch,1000+,Product
+20/12/2018 07:51:44,26,M,"Krakow, Poland",Senior Software Engineer,4.5,Senior,39150,33550,27950,No,English,1000+,outsource
+20/12/2018 08:13:59,25,M,München,Java Full-Stack Developer,2,Junior,60000,10800,10800,No,English,100-1000,Product
+20/12/2018 08:15:29,33,M,Rosenheim,IT Infrastructure consultant,15,Senior,48000,48000,,No,Deutsch,10-50,IT Consultants
+20/12/2018 08:20:25,29,M,Berlin,iOS Developer ,8,Senior,60000,60000,,No,English,50-100,Product
+20/12/2018 09:05:47,30,M,Hamburg,1С,5,Middle,24000,24000,15000,Yes,Russian,50-100,Agency
+20/12/2018 09:19:23,,M,Darmstadt,Java Developer,9,Senior,70000,65000,62000,No,English,50-100,Agency
+20/12/2018 09:27:44,,M,Stuttgart ,Senior Software Developer,8,Senior,72000,65000,55000,No,English,1000+,Agency
+20/12/2018 10:05:48,30,M,Hamburg,Hardware Developer,4,Middle,40800,38000,38000,No,Deutsch,up to 10,Agency
+20/12/2018 10:22:10,30,F,München,Software Tester,5,Middle,50000,46000,44000,No,Deutsch,50-100,Product
+20/12/2018 10:46:50,36,M,München,Web-Entwickler,5,Middle,53000,51000,,No,English,50-100,Product
+20/12/2018 11:01:51,40,M,München,Architekt,18,Senior,89000,80000,76000,Yes,Deutsch,50-100,Product
+20/12/2018 11:30:15,26,M,Berlin,PHP Developer,8,Middle,50000,45000,,Yes,English,10-50,Startup
+20/12/2018 12:06:50,29,M,Berlin,QA,8,Senior,67500,67500,50000,No,English,100-1000,Product
+20/12/2018 12:25:26,28,F,Frankfurt,Test Automation Engineer,3,Middle,50000,43000,40000,Yes,Deutsch,50-100,Consulting
+20/12/2018 12:28:28,35,F,Berlin,ML/Research (30 hours weekly),,Middle,37000,45000,45000,No,Deutsch,100-1000,Hochschule/university
+20/12/2018 12:49:16,,M,Berlin,Senior iOS Developer,6,Senior,80000,62000,53000,No,English,1000+,Product
+20/12/2018 14:17:32,,M,Karlsruhe,Electrical Engineer,4,Middle,45000,42000,40000,No,Deutsch,10-50,Product
+20/12/2018 14:35:37,29,M,München,Senior Java Developer,8,Senior,80000,100000,,No,English,100-1000,Product
+20/12/2018 16:07:33,52,M,bremen,Sysadmin,5,Middle,33600,33600,33600,No,Deutsch,up to 10,ISP
+20/12/2018 16:54:51,34,M,München,Research Scientist (AI),8,Senior,132000,125000,120000,Yes,English,1000+,Product
+20/12/2018 17:40:43,39,M,Hamburg,Software Engineer,5,Middle,87500,84500,,Yes,English,1000+,Product
+20/12/2018 18:53:02,30,M,Stockholm,Java Developer,12,Senior,65000,63000,52000,Yes,English,1000+,Product
+20/12/2018 19:23:53,38,M,Berlin,Senior Research Engineer,14,Senior,128000,119000,119000,Yes,English,1000+,Product
+20/12/2018 19:25:07,26,M,München,Frontend Developer,3,Junior,37000,37000,37000,Yes,Deutsch,up to 10,Startup
+20/12/2018 22:38:36,33,F,München,Sr project manager,11,Senior,120000,85000,72000,No,English,1000+,Product
+20/12/2018 22:39:21,42,M,München,,18,Senior,180000,120000,90000,No,Deutsch,1000+,
+21/12/2018 00:30:25,35,M,Berlin,.net c# developer,14,Senior,55000,,,No,English,50-100,Product
+21/12/2018 03:36:12,35,M,Berlin,Scala Developer,10,Senior,78000,70000,,No,English,1000+,Product
+21/12/2018 10:04:21,,M,Brussels,C++ Lead Developer,12,Senior,75000,65000,45000,Yes,English,1000+,Product
+21/12/2018 10:42:50,31,M,Luxembourg,Network engineer,8,Middle,72000,70000,70000,No,English,100-1000,Product
+21/12/2018 11:59:26,37,M,Stuttgart,PHP developer,6,Senior,57000,51000,,No,English,100-1000,Product
+21/12/2018 14:10:43,30,M,München,iOS Developer,7,Senior,68000,68000,60000,No,English,100-1000,Product
+21/12/2018 14:23:17,26,M,München,Java Developer,5,Middle,58000,58000,,No,English,100-1000,Agency
+21/12/2018 14:36:29,32,M,München,backend developer,10,Senior,65000,65000,55000,No,English,100-1000,Product
+21/12/2018 14:56:31,30,M,München,data scientist,5,Middle,60000,59000,58000,No,English,100-1000,Product
+21/12/2018 15:21:40,31,M,Berlin,Security Researcher,5,Senior,90000,85000,70000,No,English,1000+,Product
+21/12/2018 15:29:51,32,F,Dublin,Software engineer,6,Middle,90000,40000,36000,Yes,English,1000+,Product
+21/12/2018 17:23:57,28,M,Berlin,team lead,5,Senior,77000,65000,55000,No,English,50-100,Product
+21/12/2018 19:20:15,33,M,Nürnberg ,Java Developer ,6,Senior,90000,65000,50000,No,Deutsch,100-1000,Agency
+21/12/2018 19:20:59,33,M,Nürnberg ,Java Developer ,6,Senior,90000,65000,50000,No,Deutsch,100-1000,Agency
+21/12/2018 20:52:25,27,M,Berlin,Senior javascript developer,7,Senior,57500,55000,,No,English,100-1000,Product
+21/12/2018 21:01:44,43,M,Schleswig-Holstein,Senior .NET Engineer,16,Senior,103000,93000,90000,No,Deutsch,50-100,Product
+21/12/2018 22:17:29,31,M,Riga,,11,Senior,55000,,50000,No,English,1000+,Product
+21/12/2018 22:53:31,30,M,Köln,Software developer,5,Senior,70000,65000,,No,English,10-50,Product
+21/12/2018 23:49:39,32,M,Berlin,Data Science Team Lead,8,Senior,125000,106000,98000,Yes,English,100-1000,Product
+22/12/2018 10:39:18,35,M,Berlin,PHP Developer,8,Senior,57000,54000,36000,No,English,10-50,Product
+22/12/2018 11:03:16,26,F,Berlin,Data Scientist,1,Junior,56000,48000,,No,English,50-100,Startup
+22/12/2018 11:10:31,33,M,Stuttgart,Product Security Engineer,12,Senior,78000,55000,52000,No,Deutsch,1000+,Product
+22/12/2018 11:39:33,33,M,Berlin,Php developer,12,Senior,66000,60000,55000,Yes,English,100-1000,Product
+22/12/2018 12:32:20,38,M,München,Devops,15,Senior,67000,62000,,No,English,50-100,Product
+22/12/2018 13:35:53,31,M,Berlin,Java Developer,9,Middle,70000,67000,65000,No,English,1000+,Product
+22/12/2018 13:49:00,37,M,Berlin,Javascript Engineer,8,Senior,75000,60000,50000,No,English,1000+,Product
+22/12/2018 14:29:51,27,M,Berlin,DevOps,10,Senior,60000,80000,56000,No,English,100-1000,Agency
+22/12/2018 14:58:30,,M,München,Senior DevOps,,Senior,90000,80000,60000,No,English,100-1000,Fin Tech
+22/12/2018 17:01:02,31,F,Frankfurt,IT recruiter ,,Senior,90000,60000,45000,No,Deutsch,100-1000,Agency
+22/12/2018 17:25:53,33,F,Berlin,NAV Developer ,10,Middle,55000,55000,60000,No,English,100-1000,Startup
+22/12/2018 18:56:42,37,M,München,C++  developer,15,Senior,80000,77000,65000,No,English,100-1000,Product
+22/12/2018 19:57:57,36,M,München,Solution Architect,14,Senior,112000,,,No,English,1000+,Outsourcing
+22/12/2018 20:10:58,33,M,München,Javascript Developer,10,Senior,72000,69000,66000,No,Deutsch,1000+,Product
+22/12/2018 20:38:00,30,M,München,Senior iOS developer,10,Senior,70000,70000,75000,No,English,10-50,Startup
+22/12/2018 21:42:28,34,M,Berlin,Machine Learning Engineer,9,Senior,120000,105000,105000,,English,100-1000,Product
+22/12/2018 22:32:17,30,F,München,Frontend developer ,1,Junior,50000,,,No,Deutsch,50-100,Product
+23/12/2018 02:03:23,36,M,Koblenz,System Administrator (Windows),18,Senior,42000,,,No,Deutsch,10-50,Outsourcing
+23/12/2018 10:00:57,31,M,München,DevOps,11,Senior,80000,65000,60000,Yes,English,1000+,Product
+23/12/2018 11:39:45,31,M,München,Lead DevOps,8,Senior,65000,60000,,No,English,50-100,Startup
+23/12/2018 12:54:37,33,M,Frankfurt,Lead Java Developer,11,Senior,72000,72000,68000,No,English,100-1000,Product
+23/12/2018 15:08:36,32,M,Berlin,Software Engineer,9,Senior,83000,70000,66000,No,English,50-100,Blockchain technology
+23/12/2018 15:16:21,27,M,Berlin,Java Developer,6,Middle,60000,67000,51000,No,English,1000+,Retail
+23/12/2018 15:30:20,35,M,München,,12,Senior,84000,78000,72000,No,Deutsch,up to 10,Startup
+23/12/2018 15:31:48,25,M,München,DWH Developer,4,Senior,70000,,,No,English,1000+,Agency
+23/12/2018 15:33:22,34,M,Berlin,QA Lead,10,Senior,65000,60000,,Yes,English,50-100,Product
+23/12/2018 16:23:52,34,M,Hamburg,Software Developer ,10,Senior,68000,62000,,No,English,100-1000,Product
+23/12/2018 16:37:28,35,M,München,Backend Engineer,12,Senior,70000,64000,61000,No,English,50-100,Product
+23/12/2018 17:51:44,34,M,München,Senior Software Testing Engineer,11,Senior,72000,68000,65000,No,English,1000+,Product
+23/12/2018 18:59:15,33,M,homeoffice,DevOps,15,Senior,65000,65000,,No,Deutsch,up to 10,Agency
+23/12/2018 19:15:03,26,M,Berlin,Full-stack developer,5,Senior,65000,54000,40000,No,English,100-1000,Startup
+24/12/2018 08:47:03,30,M,Vienna,Software developer,7,Middle,42000,44800,44800,No,English,50-100,Consult
+24/12/2018 10:39:45,29,F,Berlin,qa,5,Middle,40000,40000,32000,No,English,50-100,Startup
+24/12/2018 10:49:15,33,M,München,Test Automation Engineer,4,Middle,60000,,,No,English,50-100,Product
+24/12/2018 11:20:58,28,M,Berlin,iOS Developer ,6,Middle,48000,48000,48000,No,English,100-1000,Product
+24/12/2018 17:36:56,33,M,Moscow,Sap developer,10,Senior,50000,,,No,Russian,1000+,Agency
+24/12/2018 18:49:59,27,M,Berlin,Scrum Master,4,Senior,62000,,,No,English,100-1000,Agency
+25/12/2018 09:57:07,33,F,Berlin,Java Developer,4,Middle,55000,54000,39000,No,English,1000+,Product
+25/12/2018 12:45:52,30,M,Berlin,Full stack,10,Senior,75000,70000,70000,Yes,English,100-1000,Product
+25/12/2018 12:51:46,29,M,Berlin,SDET,3,Middle,58000,57000,,No,Deutsch,10-50,Product
+25/12/2018 13:02:57,32,M,Berlin,Senior Sotfware Engineer (Typescript/Javascript),9,Senior,65000,60000,60000,No,English,1000+,Product
+25/12/2018 13:08:55,,M,München,c# developer,15,Middle,53600,52200,47000,No,Deutsch,10-50,Product
+25/12/2018 21:42:08,28,M,München,Software Tester,7,Senior,60000,56000,,No,English,100-1000,Product
+25/12/2018 21:42:19,28,M,München,Software Tester,7,Senior,60000,56000,,No,English,100-1000,Product
+25/12/2018 23:47:53,31,M,,Data analyst,3,Middle,51600,,,No,English,100-1000,Product
+26/12/2018 09:25:19,33,M,Limassol,PHP Developer,12,Senior,39600,36000,36000,No,Russian,100-1000,Product
+26/12/2018 11:08:06,,M,Berlin,Solution Architect,3,Senior,60500,55000,28000,No,Deutsch,10-50,Agency
+26/12/2018 14:16:31,37,M,Berlin,Software engineer,15,Senior,65000,55000,50000,No,English,10-50,Startup
+26/12/2018 14:37:31,30,M,saint petersburg,c++,10,Senior,15000,14000,13000,No,Russian,100-1000,Product
+26/12/2018 16:04:40,30,M,München,Business Analyst,7,Senior,120000,110000,100000,No,English,1000+,Product
+26/12/2018 19:42:47,,M,München,Fullstack,15,Senior,130000,90000,90000,No,English,100-1000,Product
+27/12/2018 07:53:59,33,M,,Java Developer,1,Junior,42000,,,No,English,50-100,Agency
+27/12/2018 09:30:49,28,M,Köln,.net developer,3,Middle,45000,40000,,No,Deutsch,10-50,Product
+27/12/2018 12:34:03,37,M,Erlangen,Projectingenieur,7,Senior,85000,78000,74000,Yes,Deutsch,1000+,Product
+27/12/2018 13:58:13,32,M,Frankfurt,Java Developer,,Senior,72000,68600,60000,No,English,100-1000,Product
+27/12/2018 20:07:09,36,M,München,Frontend Developer,5,Middle,60000,,,No,English,50-100,Agency
+28/12/2018 00:00:48,30,M,Berlin,Full Stack Developer,10,Middle,47000,47000,38000,No,English,10-50,Product
+28/12/2018 13:37:45,,M,München,C++ Developer,5,Middle,75000,60000,55000,No,English,10-50,Project-based software development
+28/12/2018 18:07:36,39,M,,Gruppenleiter Testing,10,Senior,130000,129000,125000,No,Deutsch,100-1000,
+29/12/2018 00:06:13,29,M,München,.net developer,8,Senior,77000,55000,44000,No,English,1000+,Product
+29/12/2018 11:12:09,35,F,,Java Developer,2,Junior,42000,39000,,No,Deutsch,10-50,Product
+29/12/2018 17:04:41,36,F,München, Java Developer,7,Senior,80000,75000,72000,No,English,1000+,Automotive
+29/12/2018 17:45:46,37,M,Berlin,Teamlead,17,Senior,95000,85000,70000,No,English,100-1000,
+29/12/2018 20:02:46,29,M,Berlin,Senior Frontend Developer,9,Senior,60000,55000,52000,Yes,English,100-1000,Product
+30/12/2018 09:43:24,,M,München,QA,7,Senior,71000,68000,64000,No,English,100-1000,Product
+30/12/2018 10:08:25,,M,München,Full stack developer ,5,Senior,60000,,,No,English,10-50,Startup
+30/12/2018 10:34:03,32,M,Berlin,Director of Engineering,10,Senior,115000,95000,70000,Yes,English,100-1000,Product
+30/12/2018 18:53:11,32,M,München,Solutions architect,11,Senior,75000,65000,60000,No,English,100-1000,Startup
+30/12/2018 22:14:57,30,M,Bonn,Software Developer,7,Senior,62500,55000,48000,No,English,10-50,Product
+30/12/2018 22:21:56,38,M,Siegen,PCB Designer,15,Middle,64000,58000,,Yes,Russian,100-1000,Product
+31/12/2018 07:45:22,42,M,München,IT специалист,18,Senior,127000,123000,118000,No,Deutsch,1000+,Automotive
+31/12/2018 10:58:13,27,M,München,Software Developer,6,Middle,65000,65000,50000,No,Deutsch,100-1000,Product
+31/12/2018 16:29:27,42,M,Berlin,Ruby Developer,20,Senior,93000,65000,,Yes,English,1000+,Product
+31/12/2018 21:40:32,26,F,Berlin,Front End Developer ,3,Junior,27000,,,No,English,10-50,Product
+31/12/2018 21:41:26,26,M,Berlin,QA,7,Middle,33000,30000,,No,English,50-100,Product
+01/01/2019 10:19:48,33,M,Remote Germany,Engineering Manager,0,Senior,83200,80000,70000,Yes,English,100-1000,Startup
+01/01/2019 20:37:11,30,,Berlin,Software Engineer ,10,Senior,85000,75000,65000,Yes,English,50-100,Product
+01/01/2019 21:07:07,34,M,Berlin,Project Manager,10,Senior,74000,,,No,English,100-1000,Product
+02/01/2019 10:42:28,31,F,Berlin,QA,9,Senior,42000,42000,,Yes,English,10-50,Startup
+02/01/2019 10:43:31,44,M,Berlin,C# Developer,20,Senior,65000,60000,58000,No,Deutsch,50-100,Product
+02/01/2019 17:47:17,,M,Stuttgart,C++ Developer,8,Senior,80400,67000,60000,No,English,1000+,OEM
+02/01/2019 22:32:08,27,F,Frankfurt,Associate IT Consultant,0,Junior,50000,10001,10001,No,English,100-1000,Consulting (banking)
+03/01/2019 14:01:31,30,M,Berlin,Principal Software Engineer,10,Senior,75000,72000,36000,Yes,English,1000+,Product
+03/01/2019 17:37:31,25,M,"Ireland, Dublin",C# dev,5,Middle,50000,,,No,English,100-1000,Agency
+05/01/2019 15:01:25,35,M,Köln,DevOps Engineer,11,Middle,60000,,,No,English,10-50,Startup
+06/01/2019 15:20:04,26,M,Berlin,Java Script developer,5,Senior,62500,60000,52000,Yes,English,1000+,Product
+07/01/2019 13:59:53,34,M,Frankfurt,BI Consultant,11,Senior,65000,55000,55000,No,Deutsch,1000+,IT Consulting
+08/01/2019 21:21:55,36,M,Köln,Software Tester,5,Senior,53000,,,No,Deutsch,100-1000,Agency
+09/01/2019 10:31:26,35,M,Berlin,Backend Developer,12,Senior,70000,65000,60000,No,English,100-1000,Product
+14/01/2019 10:13:07,29,F,Berlin,Senior Tech recruiter,7,Senior,55000,,,No,English,50-100,Agency
+18/01/2019 08:18:53,33,M,Köln,.NET Developer,12,Senior,60000,,,No,English,up to 10,Product
+20/01/2019 03:50:44,28,M,Darmstadt,Computer Vision Intern,2,,13000,,,No,English,50-100,Product
+20/01/2019 14:36:15,34,M,Berlin,Devops Engineer,3,Middle,52000,47000,39000,Yes,English,50-100,Product
+21/01/2019 16:05:38,,F,München,Software tester,8,Middle,40000,40000,38000,No,Deutsch,100-1000,Product
+04/02/2019 14:31:56,33,M,Berlin,Producer,7,Senior,69000,67000,64500,No,English,1000+,Product
+05/02/2019 12:48:23,30,F,Berlin,Project Manager,11,Senior,65000,55000,,No,English,10-50,Startup
+05/02/2019 19:08:50,38,M,Berlin,PHP Developer,18,Senior,68000,65000,60000,No,English,1000+,Product
+10/02/2019 18:42:52,31,M,München,Android Developer,6,Middle,65000,63000,58000,No,English,50-100,Product
+22/02/2019 11:27:17,35,F,München,Product Manager,10,Senior,80000,,,No,English,50-100,Product
+27/02/2019 21:40:21,32,M,Berlin,Senior QA Engineer,9,Senior,71500,68000,60000,Yes,English,100-1000,Startup
+27/02/2019 21:51:06,,,,,,,,,,,,,
+28/02/2019 16:33:15,,,,,,,,,,,,,
+26/03/2019 22:17:53,40,M,München,Senior PHP developer,12,Senior,50000,50000,41000,No,English,50-100,Product
+03/04/2019 10:10:41,,M,Frankfurt,,,Junior,,,,No,Deutsch,1000+,Product
+13/05/2019 20:50:51,,,,,,,,,,,,,
+16/05/2019 23:36:03,,,,,,,,,,,,,
+22/05/2019 00:54:42,,M,München,,,Senior,70000,,,,,,
+25/05/2019 16:38:34,,,,,,,,,,,,,
+25/05/2019 16:38:46,,,,,,,,,,,,,
+02/06/2019 22:53:41,31,M,München,,1,Junior,51000,,,No,Deutsch,1000+,Agency
+03/06/2019 22:58:13,40,M,Berlin,Senior Java developer,20,Senior,75000,,,No,English,50-100,Product
+14/06/2019 09:07:43,,M,Frankfurt,SAP Developer,8,Senior,80000,75000,65000,No,Deutsch,100-1000,Product
+03/08/2019 13:35:09,37,M,Köln,Software Tester,5,Middle,53000,53000,,No,Deutsch,10-50,Agency
+09/08/2019 11:53:32,51,M,Oberhausen,Sr. Database Entwickler (Oracle/Java),25,Senior,78000,76500,75000,No,Deutsch,100-1000,Product
+22/08/2019 21:04:57,,,,,,,,,,,,,
+12/09/2019 13:05:24,,M,estonia,32,3,Senior,55555,55555,55555,No,English,up to 10,Agency
+08/10/2019 16:45:46,29,M,Andernach,Java Developer,1,Junior,42000,,,No,Russian,up to 10,
+27/10/2019 09:25:28,25,M,München,Developer,4,Middle,60000,55000,,No,English,1000+,Product
+23/11/2019 08:30:53,,M,Berlin,Lead software engineer,17,Senior,85000,83000,80000,No,English,1000+,Product
+28/11/2019 20:39:45,,,,,,,,,,,,,
+26/12/2019 17:09:25,33,M,Nürnberg ,Project Manager ,11,Senior,75000,70000,,Yes,English,1000+,Product
+29/12/2019 22:54:18,,,,,,,,,,,,,
+06/01/2020 13:38:05,30,M,München,Softwareentwickler,10,Middle,75000,50000,,No,Deutsch,100-1000,Agency
+05/03/2020 16:50:43,52,M,Köln,IT Engineer,30,Middle,63000,80000,80000,No,English,1000+,Agency
+11/03/2020 23:23:19,,,,,,,,,,,,,
+31/05/2020 16:28:15,,M,Berlin,,,,,,,,,,
+31/05/2020 16:28:23,,M,Berlin,,,,,,,,,,
+03/06/2020 20:12:51,40,M,Köln,Java Developer junior,1,Junior,44000,40000,40000,Yes,Deutsch,10-50,Product
+28/07/2020 04:03:13,,M,Köln,E.g. C# Developer,1,Junior,45000,40000,40000,Yes,Deutsch,10-50,Product
+28/07/2020 04:03:20,,M,Köln,E.g. C# Developer,1,Junior,45000,40000,40000,Yes,Deutsch,10-50,Product
+26/08/2020 09:06:44,,,,,,,,,,,,,
+21/09/2020 01:47:10,31,F,München,Pm ,10,Senior,110000,,,No,English,1000+,Product
